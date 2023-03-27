@@ -32,17 +32,17 @@ After setup, you can view your MarkLogic Server configuration in the Admin UI (h
 
 ## Run the middle tier 
 
-1. From the project root, run the Node.js Express proxy server, which is the middle tier between the React applicaation and the MarkLogic Server:
+1. From the project root, run the Node.js Express proxy server, which is the middle tier between the React application and the MarkLogic Server:
 ```
 node server
 ```
 
 ## Run the UI 
 
-1. In a new terminal, run the React applicaation from the `ui` directory:
+1. In a new terminal, run the React application from the `ui` directory:
 ```
 cd ml-kendo-map/ui
 npm start
 ```
 
-2. Open the React applicaation in your browser: http://localhost:3000
+2. Open the React application in your browser: http://localhost:3000

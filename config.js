@@ -1,7 +1,7 @@
 const config = {};
 
 config.project = {
-  name: "ml-kendo"
+  name: "ml-kendo-map"
 };
 
 // Admin privileges for MarkLogic setup
@@ -32,7 +32,7 @@ config.rest = {
     name: config.project.name + "-rest",
     database: config.databases.content.name,
     "modules-database": config.databases.modules.name,
-    port: 8090,
+    port: 8091,
     "error-format": "json"
   },
   security: {

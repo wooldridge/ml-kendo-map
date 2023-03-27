@@ -76,6 +76,25 @@ const createForest = async (name) => {
   }
 }
 
+const configDatabase = async (name, body) => {
+  const options = {
+    method: 'PUT',
+    uri: 'http://' + config.host + ':8002/manage/v2/databases/'+name+'/properties',
+    body: body,
+    json: true,
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    auth: config.auth
+  };
+  try {
+    const response = await rp(options);
+    console.log('Database configured: '.green + name);
+  } catch (error) {
+    handleError(error);
+  }
+}
+
 const createREST = async () => {
   const options = {
     method: 'POST',
@@ -272,6 +291,8 @@ const start = async () => {
   await createDatabase(config.databases.modules.name);
   await createForest(config.databases.content.name);
   await createForest(config.databases.modules.name);
+  await configDatabase(config.databases.content.name, config.databases.config[0]);
+  await configDatabase(config.databases.content.name, config.databases.config[1]);
   await createREST();
   // await createXDBC(); // Not needed
   await createRole();

@@ -25,6 +25,34 @@ config.databases = {
   modules: {
     name: config.project.name + "-modules"
   },
+  config: [
+    {
+      "range-path-index": [
+        {
+            "scalar-type": "string",
+            "path-expression": "/person/addresses/address/state",
+            "collation": "http://marklogic.com/collation/codepoint",
+            "range-value-positions": false,
+            "invalid-values": "reject"
+        }
+      ]
+    },
+    {
+      "geospatial-element-pair-index": [
+        {
+            "parent-namespace-uri": "",
+            "parent-localname": "address",
+            "latitude-namespace-uri": "",
+            "latitude-localname": "latitude",
+            "longitude-namespace-uri": "",
+            "longitude-localname": "longitude",
+            "coordinate-system": "wgs84",
+            "range-value-positions": false,
+            "invalid-values": "reject"
+        }
+      ]
+    }
+  ]
 };
 
 config.rest = {

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10067</personId>
+  <nameGroup>
+    <givenname>
+      <value>Tommy</value>
+    </givenname>
+    <surname>
+      <value>Deek</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Tommy Deek </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-03-25T14:43:17Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-03-24T15:30:51Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>bgooddie0@woothemes.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>lturpin1@vkontakte.ru</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>rzumbusch2@usatoday.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>590-410-5319</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>jellesworth0@pen.io</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>473-268-7008</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>758-175-4039</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>894-07-9189</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-10-15T17:01:16Z</ts>
+        <uploadedBy>pyerill0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-01-25T06:50:41Z</ts>
+        <uploadedBy>kfabri0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-11-29T04:58:03Z</ts>
+        <uploadedBy>mjirusek0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>40 2nd Plaza</street>
+      <city>Kansas City</city>
+      <state>MO</state>
+      <postal>64136</postal>
+      <country>United States</country>
+      <latitude>39.0187</latitude>
+      <longitude>-94.4008</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad del Bajío</name>
+      <city>20 de Noviembre</city>
+      <state>COA</state>
+      <postal>30478</postal>
+      <latitude>19.4449916</latitude>
+      <longitude>-99.1082647</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-05-01T15:52:24Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-06-25T11:31:12Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2016-03-17T19:12:51Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Canada</country>
+      <name>McMaster University</name>
+      <city>Saint-Ambroise</city>
+      <state>QC</state>
+      <postal>G7P</postal>
+      <latitude>48.5556837</latitude>
+      <longitude>-71.3205493</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-11-10T04:19:21Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-01-16T12:33:17Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2020-03-10T02:38:38Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2012-02-15T08:34:41Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10072.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Conrad Tunnah </fullname>
+      <city>Sacramento</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10076.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Phillipe Mandy </fullname>
+      <city>Savannah</city>
+      <state>GA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-13T13:12:12Z</ts>
+    <user>tdeek1u</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-27T00:25:01Z</ts>
+    <user>tdeek1u</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>dbartoszewski0</handle>
+      <address>https://army.mil/ut/volutpat/sapien/arcu/sed.jpg</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>fbalchin1</handle>
+      <address>http://arizona.edu/eget/rutrum.jpg</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-25</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-13</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>true</important>
+      <ts>2022-01-26</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-02-02</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-01-11</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-13</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://typepad.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://hexun.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://tamu.edu</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Yata</place>
+      <predplace>movedTo Yata</predplace>
+      <ts>2014-01-11T21:09:14Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-05T08:56:11Z</ts>
+        <createdBy>Risa Applin</createdBy>
+        <approvedBy>Kristel Chiswell</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Thoughtmix</place>
+      <predplace>movedTo Thoughtmix</predplace>
+      <ts>2018-05-11T15:41:49Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-10-16T02:48:57Z</ts>
+        <createdBy>Cara Tomlins</createdBy>
+        <approvedBy>Eada Pantling</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Oodoo</place>
+      <predplace>movedTo Oodoo</predplace>
+      <ts>2018-12-13T06:55:16Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-04-10T13:55:02Z</ts>
+        <createdBy>Filmore Dellenbrok</createdBy>
+        <approvedBy>Zared Pooley</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Devify</place>
+      <predplace>transferredTo Devify</predplace>
+      <ts>2017-03-15T19:45:32Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-05-24T02:31:21Z</ts>
+        <createdBy>Haywood Lorenc</createdBy>
+        <approvedBy>Doralynne O'Doireidh</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-07-06T18:54:52Z</end>
+      <start>2014-10-21T08:01:36Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://cocolog-nifty.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://latimes.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://wix.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10067.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10067</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10067.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Tommy</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10067.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Deek</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10067.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10072.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10067.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10076.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

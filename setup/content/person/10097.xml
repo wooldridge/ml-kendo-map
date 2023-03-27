@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10097</personId>
+  <nameGroup>
+    <givenname>
+      <value>Tuck</value>
+    </givenname>
+    <surname>
+      <value>Whyborn</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Tuck Whyborn </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-02-12T07:47:13Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>trhodus0@spiegel.de</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>557-408-2033</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>373-114-7743</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>cfolbig1@wordpress.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>913-812-8961</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>128-80-3676</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-03-19T01:22:59Z</ts>
+        <uploadedBy>mnertney0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2011-10-16T16:43:03Z</ts>
+        <uploadedBy>jandreoletti0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>23 Buell Terrace</street>
+      <city>Grand Rapids</city>
+      <state>MI</state>
+      <postal>49544</postal>
+      <country>United States</country>
+      <latitude>43.0073</latitude>
+      <longitude>-85.7255</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>East Stroudsburg State University</name>
+      <city>Raleigh</city>
+      <state>NC</state>
+      <postal>27690</postal>
+      <latitude>35.9240269</latitude>
+      <longitude>-78.5829504</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-11-06T09:27:34Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-12-24T12:50:27Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Tecnologica de la Mixteca</name>
+      <city>Miguel Hidalgo</city>
+      <state>TAM</state>
+      <postal>87090</postal>
+      <latitude>23.7318903</latitude>
+      <longitude>-99.1502962</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-03-25T19:32:04Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2015-12-01T03:39:38Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10090.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Nanine Nutbeam </fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+    <relation>
+      <id>/person/10084.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Crista Meeking </fullname>
+      <city>Eugene</city>
+      <state>OR</state>
+    </relation>
+    <relation>
+      <id>/person/10076.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Phillipe Mandy </fullname>
+      <city>Savannah</city>
+      <state>GA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-17T14:16:53Z</ts>
+    <user>twhyborn2o</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-05T14:14:12Z</ts>
+    <user>twhyborn2o</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>ckenna0</handle>
+      <address>https://wordpress.com/phasellus.xml</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-29</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://youtu.be</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://nydailynews.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://earthlink.net</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zoovu</place>
+      <predplace>endedAt Zoovu</predplace>
+      <ts>2012-03-27T11:11:32Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-04-24T17:36:48Z</ts>
+        <createdBy>Abdel McGragh</createdBy>
+        <approvedBy>Tymon Adie</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Gigashots</place>
+      <predplace>transferredTo Gigashots</predplace>
+      <ts>2016-06-23T16:50:10Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-07-29T16:54:59Z</ts>
+        <createdBy>Denni Baudone</createdBy>
+        <approvedBy>Cherilynn Ericsson</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Eamia</place>
+      <predplace>startedAt Eamia</predplace>
+      <ts>2016-05-05T05:05:12Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-05-12T14:53:50Z</ts>
+        <createdBy>Wright Griffen</createdBy>
+        <approvedBy>Dick Weatherley</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Eidel</place>
+      <predplace>endedAt Eidel</predplace>
+      <ts>2019-06-22T01:08:36Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-12-28T23:57:11Z</ts>
+        <createdBy>Augusta Galero</createdBy>
+        <approvedBy>Collete Steedman</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>visited Swift Inc</predplace>
+      <end>2017-01-31T08:10:52Z</end>
+      <start>2015-07-29T21:16:48Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://weather.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://howstuffworks.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://china.com.cn</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10097.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10097</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10097.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Tuck</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10097.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Whyborn</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10097.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10090.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10097.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10084.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10097.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10076.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

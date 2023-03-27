@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10021</personId>
+  <nameGroup>
+    <givenname>
+      <value>Zebulon</value>
+    </givenname>
+    <surname>
+      <value>Grevel</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Zebulon Grevel </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2013-12-16T20:28:29Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-05-16T16:19:54Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>btomaszkiewicz0@yellowbook.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>157-997-0520</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>dmckevany0@bbb.org</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>mwhitmell1@webnode.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>183-424-2994</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>390-18-7449</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-04-07T09:25:07Z</ts>
+        <uploadedBy>jleahair0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-04-09T13:48:02Z</ts>
+        <uploadedBy>acatford0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-03-13T01:36:06Z</ts>
+        <uploadedBy>fbulbeck0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-07-10T08:45:49Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>4327 Village Green Circle</street>
+      <city>Baltimore</city>
+      <state>MD</state>
+      <postal>21275</postal>
+      <country>United States</country>
+      <latitude>39.2847</latitude>
+      <longitude>-76.6205</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Latina</name>
+      <city>El Zapote</city>
+      <state>GRO</state>
+      <postal>39949</postal>
+      <latitude>20.7595709</latitude>
+      <longitude>-103.427389</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-06-13T20:08:48Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-06-17T05:13:57Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2020-04-11T11:13:40Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2011-03-07T05:59:44Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10023.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Bronson Hatherleigh </fullname>
+      <city>Reno</city>
+      <state>NV</state>
+    </relation>
+    <relation>
+      <id>/person/10089.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Terza Bunhill </fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-26T07:58:24Z</ts>
+    <user>zgrevelk</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-04T00:21:27Z</ts>
+    <user>zgrevelk</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>dhamill0</handle>
+      <address>https://sphinn.com/etiam/justo/etiam/pretium/iaculis/justo.json</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>ejennings1</handle>
+      <address>http://ftc.gov/donec/ut.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-02-08</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-22</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-01-03</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-01-25</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://hud.gov</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://arstechnica.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://abc.net.au</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Buzzdog</place>
+      <predplace>transferredTo Buzzdog</predplace>
+      <ts>2015-06-28T16:40:03Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-06-23T03:47:52Z</ts>
+        <createdBy>Kerwinn Studart</createdBy>
+        <approvedBy>Tarah Sigfrid</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Photolist</place>
+      <predplace>movedTo Photolist</predplace>
+      <ts>2019-01-05T08:11:16Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-12-09T04:15:46Z</ts>
+        <createdBy>Chaunce Coombs</createdBy>
+        <approvedBy>Lanny Glover</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Livepath</place>
+      <predplace>startedAt Livepath</predplace>
+      <ts>2019-02-06T16:32:34Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2022-01-09T22:23:26Z</ts>
+        <createdBy>Elianore Gogin</createdBy>
+        <approvedBy>Munroe Moretto</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Leenti</place>
+      <predplace>movedTo Leenti</predplace>
+      <ts>2017-03-25T14:34:39Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-08-25T17:16:05Z</ts>
+        <createdBy>Oswell Ameer-Beg</createdBy>
+        <approvedBy>Barbe Riddiough</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2018-07-23T10:22:30Z</end>
+      <start>2015-05-12T12:34:12Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://google.de</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://weather.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://webmd.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10021.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10021</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10021.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Zebulon</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10021.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Grevel</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10021.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10023.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10021.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10089.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

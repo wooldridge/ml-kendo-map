@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10033</personId>
+  <nameGroup>
+    <givenname>
+      <value>Morlee</value>
+    </givenname>
+    <surname>
+      <value>Argrave</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Morlee Argrave </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-08-24T00:41:18Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-06T14:36:59Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>dblastock0@huffingtonpost.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>jphiller1@europa.eu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>vchiplen2@xrea.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>188-359-4843</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>660-960-9296</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>ionions1@sbwire.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>anelles2@jimdo.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>245-93-2746</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-27T22:10:47Z</ts>
+        <uploadedBy>tmcamish0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2012-06-23T05:25:57Z</ts>
+        <uploadedBy>tcunde0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>997 Steensland Hill</street>
+      <city>Norfolk</city>
+      <state>VA</state>
+      <postal>23509</postal>
+      <country>United States</country>
+      <latitude>36.8787</latitude>
+      <longitude>-76.2604</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Lipscomb University</name>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20226</postal>
+      <latitude>38.8974442</latitude>
+      <longitude>-77.0296868</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-08-31T17:48:04Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-06-10T14:26:16Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2017-05-22T12:18:12Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2014-05-13T06:50:56Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2015-08-16T09:09:56Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10039.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Glad Yurkov </fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10011.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Reinald Gierke </fullname>
+      <city>Indianapolis</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10003.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Scarface Crellin </fullname>
+      <city>Montgomery</city>
+      <state>AL</state>
+    </relation>
+    <relation>
+      <id>/person/10090.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Nanine Nutbeam </fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+    <relation>
+      <id>/person/10053.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Roxie Yule </fullname>
+      <city>Detroit</city>
+      <state>MI</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-08T23:52:07Z</ts>
+    <user>margravew</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-11T08:48:04Z</ts>
+    <user>margravew</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>bsauvage0</handle>
+      <address>https://nbcnews.com/vestibulum/eget/vulputate/ut/ultrices.jpg</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>lsorrell1</handle>
+      <address>https://mozilla.com/augue/aliquam/erat/volutpat/in.html</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list10</list>
+      <important>false</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>false</important>
+      <ts>2022-02-11</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://tripod.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://sourceforge.net</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://yandex.ru</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Layo</place>
+      <predplace>movedTo Layo</predplace>
+      <ts>2019-04-17T22:42:01Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-11-17T03:38:34Z</ts>
+        <createdBy>Rodina Pinnington</createdBy>
+        <approvedBy>Porter Mabbe</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Brightbean</place>
+      <predplace>endedAt Brightbean</predplace>
+      <ts>2016-01-17T12:25:24Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-04-09T22:52:18Z</ts>
+        <createdBy>Leanora Phillins</createdBy>
+        <approvedBy>Zia Mudd</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Devpoint</place>
+      <predplace>transferredTo Devpoint</predplace>
+      <ts>2016-06-17T13:31:12Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-03-30T00:45:21Z</ts>
+        <createdBy>Neville McChruiter</createdBy>
+        <approvedBy>Regine McLernon</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Nlounge</place>
+      <predplace>movedTo Nlounge</predplace>
+      <ts>2019-12-28T05:31:54Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-08-19T18:40:28Z</ts>
+        <createdBy>Neils Boyda</createdBy>
+        <approvedBy>Patricia Kaysor</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>visited Swift Inc</predplace>
+      <end>2018-06-29T08:57:16Z</end>
+      <start>2016-06-13T01:36:06Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://stanford.edu</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://newsvine.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://slideshare.net</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10033.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10033</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10033.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Morlee</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10033.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Argrave</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10033.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10039.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10033.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10011.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10033.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10003.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10033.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10090.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10033.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10053.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

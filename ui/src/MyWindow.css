@@ -1,0 +1,18 @@
+.item {
+  margin-top: 5px;
+}
+
+.email {
+  color: #00A36C;
+  text-decoration: underline;
+}
+
+.image {
+  margin: 0 5px; 
+  text-align: center;
+  width: 140px;
+}
+
+.gridContainer {
+  margin-top: 20px;
+}

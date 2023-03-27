@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10018</personId>
+  <nameGroup>
+    <givenname>
+      <value>Lesley</value>
+    </givenname>
+    <surname>
+      <value>Spalton</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Lesley Spalton </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-01-18T03:09:15Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-07-03T15:38:46Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-06-21T01:14:47Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>sseargeant0@uiuc.edu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>jcolnett1@ebay.co.uk</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>707-272-3686</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>cbavister0@fotki.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>691-877-3832</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>427-836-8263</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>430-96-1661</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2018-05-23T19:16:10Z</ts>
+        <uploadedBy>mmonan0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2019-12-14T09:22:35Z</ts>
+        <uploadedBy>ehaill0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-02-23T22:18:45Z</ts>
+        <uploadedBy>cchifney0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-12-25T10:00:53Z</ts>
+        <uploadedBy>gandrew0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>98570 Moose Trail</street>
+      <city>South Lake Tahoe</city>
+      <state>CA</state>
+      <postal>96154</postal>
+      <country>United States</country>
+      <latitude>38.8753</latitude>
+      <longitude>-120.0188</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United Kingdom</country>
+      <name>University of Strathclyde</name>
+      <city>Norton</city>
+      <state>ENG</state>
+      <postal>NN11</postal>
+      <latitude>52.2679288</latitude>
+      <longitude>-1.1202549</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-07-19T14:31:38Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-01-15T12:32:01Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>University of North Texas Health Science Center at Fort Worth</name>
+      <city>Shawnee Mission</city>
+      <state>KS</state>
+      <postal>66276</postal>
+      <latitude>39.0269443</latitude>
+      <longitude>-94.6673484</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-06-23T08:23:27Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2016-08-24T04:25:33Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10044.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Lannie Reyes </fullname>
+      <city>Richmond</city>
+      <state>VA</state>
+    </relation>
+    <relation>
+      <id>/person/10027.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Calypso Hasselby </fullname>
+      <city>Houston</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10070.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Drusie Markie </fullname>
+      <city>Wichita Falls</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10050.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Jarred Bottby </fullname>
+      <city>Saint Cloud</city>
+      <state>MN</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-22T05:04:46Z</ts>
+    <user>lspaltonh</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-26T14:44:34Z</ts>
+    <user>lspaltonh</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>wchell0</handle>
+      <address>https://yellowpages.com/suspendisse/ornare/consequat.jpg</address>
+    </social>
+  </socials>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://tiny.cc</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://seattletimes.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://jigsy.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Skiptube</place>
+      <predplace>transferredTo Skiptube</predplace>
+      <ts>2015-11-10T22:37:16Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-04-08T14:51:36Z</ts>
+        <createdBy>Peirce Holstein</createdBy>
+        <approvedBy>Marion Bedells</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Avaveo</place>
+      <predplace>transferredTo Avaveo</predplace>
+      <ts>2013-08-25T17:56:05Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2022-02-14T22:29:18Z</ts>
+        <createdBy>Grenville Reuss</createdBy>
+        <approvedBy>Aleta Iorizzo</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Topdrive</place>
+      <predplace>startedAt Topdrive</predplace>
+      <ts>2020-02-18T02:52:58Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-14T07:36:57Z</ts>
+        <createdBy>Melodee Ahern</createdBy>
+        <approvedBy>Dominic Peabody</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Mycat</place>
+      <predplace>endedAt Mycat</predplace>
+      <ts>2017-11-13T10:19:52Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-05-26T08:26:48Z</ts>
+        <createdBy>Rea Newling</createdBy>
+        <approvedBy>Homer Self</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Babbleset</place>
+      <predplace>startedAt Babbleset</predplace>
+      <ts>2019-03-28T18:02:18Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-01-14T06:24:13Z</ts>
+        <createdBy>Vicki Hassent</createdBy>
+        <approvedBy>Doroteya Burnard</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-04-16T11:55:10Z</end>
+      <start>2016-02-08T11:39:52Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://addthis.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://yahoo.co.jp</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://nationalgeographic.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10018</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Lesley</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Spalton</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10044.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10027.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10070.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10050.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

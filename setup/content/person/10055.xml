@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10055</personId>
+  <nameGroup>
+    <givenname>
+      <value>Balduin</value>
+    </givenname>
+    <surname>
+      <value>Harrington</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Balduin Harrington </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-11-03T05:23:42Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>hwyant0@webnode.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>867-399-1777</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>873-548-7271</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>242-787-3808</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>rclampin2@sourceforge.net</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>109-31-5300</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-06-15T14:10:54Z</ts>
+        <uploadedBy>barthan0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-11-23T00:34:17Z</ts>
+        <uploadedBy>gasman0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>49301 Schmedeman Place</street>
+      <city>Birmingham</city>
+      <state>AL</state>
+      <postal>35210</postal>
+      <country>United States</country>
+      <latitude>33.5452</latitude>
+      <longitude>-86.6655</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Salem Teikyo University</name>
+      <city>Houston</city>
+      <state>TX</state>
+      <postal>77260</postal>
+      <latitude>32.9536923</latitude>
+      <longitude>-96.816156</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-01-22T07:04:45Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2016-12-20T00:24:47Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2020-09-17T02:13:26Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10072.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Conrad Tunnah </fullname>
+      <city>Sacramento</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10086.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Lexy Lewry </fullname>
+      <city>New Haven</city>
+      <state>CT</state>
+    </relation>
+    <relation>
+      <id>/person/10093.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Isobel Pharoah </fullname>
+      <city>Dayton</city>
+      <state>OH</state>
+    </relation>
+    <relation>
+      <id>/person/10077.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Jada Essame </fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10036.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Doro Petrol </fullname>
+      <city>Louisville</city>
+      <state>KY</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-05T10:17:21Z</ts>
+    <user>bharrington1i</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-18T21:15:32Z</ts>
+    <user>bharrington1i</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>hcollicott0</handle>
+      <address>https://unc.edu/elit/sodales.xml</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>rmuscroft1</handle>
+      <address>https://timesonline.co.uk/posuere/nonummy.js</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>fscoterbosh2</handle>
+      <address>http://hatena.ne.jp/in.jsp</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-02-04</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-09</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-14</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://cam.ac.uk</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://usnews.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://ftc.gov</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Yoveo</place>
+      <predplace>startedAt Yoveo</predplace>
+      <ts>2016-10-24T19:03:06Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-01-01T09:21:02Z</ts>
+        <createdBy>Sholom Cornier</createdBy>
+        <approvedBy>Korry Love</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Wikibox</place>
+      <predplace>endedAt Wikibox</predplace>
+      <ts>2018-08-22T08:39:09Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-12-13T17:16:05Z</ts>
+        <createdBy>Mervin Grinval</createdBy>
+        <approvedBy>Earlie Hughman</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Riffpedia</place>
+      <predplace>startedAt Riffpedia</predplace>
+      <ts>2012-12-11T23:50:04Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-08T02:45:35Z</ts>
+        <createdBy>Eli Lefridge</createdBy>
+        <approvedBy>Yehudi Gasnell</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>visited Swift Inc</predplace>
+      <end>2017-07-01T22:09:59Z</end>
+      <start>2016-01-26T05:11:46Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://google.com.au</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://hao123.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://ehow.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10055.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10055</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10055.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Balduin</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10055.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Harrington</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10055.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10072.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10055.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10086.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10055.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10093.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10055.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10077.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10055.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10036.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

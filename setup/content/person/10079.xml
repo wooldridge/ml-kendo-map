@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10079</personId>
+  <nameGroup>
+    <givenname>
+      <value>Taber</value>
+    </givenname>
+    <surname>
+      <value>Salatino</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Taber Salatino </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2013-10-01T14:56:07Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>tgrubey0@cmu.edu</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>307-508-5140</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>773-225-0817</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>661-227-3591</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>818-491-7351</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>813-06-4299</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-07-05T08:23:54Z</ts>
+        <uploadedBy>lgaskin0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-07-21T17:19:59Z</ts>
+        <uploadedBy>cgiraux0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>487 Monica Circle</street>
+      <city>Olympia</city>
+      <state>WA</state>
+      <postal>98506</postal>
+      <country>United States</country>
+      <latitude>47.1042</latitude>
+      <longitude>-122.87</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>Institut Armand-Frappier, Université du Québec</name>
+      <city>Berthierville</city>
+      <state>QC</state>
+      <postal>S3N</postal>
+      <latitude>46.08336</latitude>
+      <longitude>-73.18245</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-07-28T12:45:19Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2017-12-07T07:24:30Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Rasmussen College, Illinois Campuses</name>
+      <city>San Antonio</city>
+      <state>TX</state>
+      <postal>78205</postal>
+      <latitude>29.422658</latitude>
+      <longitude>-98.4869905</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-09-23T16:17:17Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-07-24T16:30:59Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2011-09-05T20:35:46Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2014-09-19T11:21:09Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2010-08-14T11:18:08Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10024.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Korella Kiddey </fullname>
+      <city>Sioux City</city>
+      <state>IA</state>
+    </relation>
+    <relation>
+      <id>/person/10032.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Vivian Tallent </fullname>
+      <city>Muncie</city>
+      <state>IN</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-08T01:15:17Z</ts>
+    <user>tsalatino26</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-24T09:56:56Z</ts>
+    <user>tsalatino26</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>hatteridge0</handle>
+      <address>http://globo.com/fusce.png</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>aharnwell1</handle>
+      <address>https://nationalgeographic.com/lacinia/nisi.xml</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>awipper2</handle>
+      <address>http://jimdo.com/erat/fermentum/justo.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-01-23</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-01-21</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://blog.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://dropbox.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://biglobe.ne.jp</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Pixonyx</place>
+      <predplace>movedTo Pixonyx</predplace>
+      <ts>2016-01-23T00:51:16Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-11-15T22:28:41Z</ts>
+        <createdBy>Barris Coger</createdBy>
+        <approvedBy>Brien Smurfitt</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Blogtag</place>
+      <predplace>endedAt Blogtag</predplace>
+      <ts>2019-03-20T05:58:01Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-09-20T08:17:50Z</ts>
+        <createdBy>Shanon Monteaux</createdBy>
+        <approvedBy>Corette Boam</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Leexo</place>
+      <predplace>endedAt Leexo</predplace>
+      <ts>2015-08-23T05:19:23Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-04-16T21:46:52Z</ts>
+        <createdBy>Shayna Menauteau</createdBy>
+        <approvedBy>Leontine Baffin</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2017-08-06T22:28:11Z</end>
+      <start>2015-08-07T21:04:36Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://sourceforge.net</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://go.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://miitbeian.gov.cn</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10079.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10079</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10079.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Taber</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10079.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Salatino</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10079.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10024.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10079.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10032.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

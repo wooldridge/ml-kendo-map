@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10042</personId>
+  <nameGroup>
+    <givenname>
+      <value>Ardelis</value>
+    </givenname>
+    <surname>
+      <value>Wemes</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Ardelis Wemes </value>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-03-11T02:36:41Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>dpape0@imageshack.us</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>ctarbet1@seattletimes.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>314-901-7556</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>168-460-2518</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>323-409-2252</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>582-713-1836</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>500-58-8468</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2019-06-20T17:44:21Z</ts>
+        <uploadedBy>cbaribal0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2019-03-06T19:17:16Z</ts>
+        <uploadedBy>daxelbey0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-11-14T10:06:16Z</ts>
+        <uploadedBy>echazotte0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>50218 Kensington Road</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <postal>46231</postal>
+      <country>United States</country>
+      <latitude>39.7038</latitude>
+      <longitude>-86.3029</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Ursuline College</name>
+      <city>Chicago</city>
+      <state>IL</state>
+      <postal>60614</postal>
+      <latitude>41.9203468</latitude>
+      <longitude>-87.6433139</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-05-17T12:33:24Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-03-20T23:03:48Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad del Noroeste</name>
+      <city>Santa Cruz</city>
+      <state>OAX</state>
+      <postal>70762</postal>
+      <latitude>19.6938888</latitude>
+      <longitude>-99.2591666</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-04-30T03:38:39Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2020-11-23T09:19:49Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10032.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Vivian Tallent </fullname>
+      <city>Muncie</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10023.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Bronson Hatherleigh </fullname>
+      <city>Reno</city>
+      <state>NV</state>
+    </relation>
+    <relation>
+      <id>/person/10053.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Roxie Yule </fullname>
+      <city>Detroit</city>
+      <state>MI</state>
+    </relation>
+    <relation>
+      <id>/person/10099.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Nikolos Donnel </fullname>
+      <city>Richmond</city>
+      <state>VA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-27T04:54:08Z</ts>
+    <user>awemes15</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-04T20:12:48Z</ts>
+    <user>awemes15</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>wjoules0</handle>
+      <address>https://mediafire.com/sapien/cum/sociis.xml</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>alambillion1</handle>
+      <address>https://smugmug.com/justo/eu/massa/donec.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-01-06</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-02-04</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-22</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://amazon.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://google.com.au</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://nyu.edu</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Innotype</place>
+      <predplace>movedTo Innotype</predplace>
+      <ts>2012-05-10T09:25:45Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-02-02T23:04:59Z</ts>
+        <createdBy>Dorella Ulyat</createdBy>
+        <approvedBy>Ellwood Cicchitello</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Youtags</place>
+      <predplace>endedAt Youtags</predplace>
+      <ts>2020-01-09T20:52:55Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-20T23:30:00Z</ts>
+        <createdBy>Willy Easun</createdBy>
+        <approvedBy>Haily Swigg</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Tekfly</place>
+      <predplace>endedAt Tekfly</predplace>
+      <ts>2018-03-10T12:45:01Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2022-01-22T03:27:24Z</ts>
+        <createdBy>Aggi Harverson</createdBy>
+        <approvedBy>Kelcey Hatry</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Kwideo</place>
+      <predplace>startedAt Kwideo</predplace>
+      <ts>2016-06-26T04:56:07Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-07-13T20:28:11Z</ts>
+        <createdBy>Jasun Mustarde</createdBy>
+        <approvedBy>Staffard Manilow</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-08-28T07:32:43Z</end>
+      <start>2015-10-16T20:40:47Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://ebay.co.uk</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://histats.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://chicagotribune.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10042.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10042</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10042.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Ardelis</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10042.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Wemes</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10042.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10032.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10042.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10023.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10042.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10053.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10042.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10099.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

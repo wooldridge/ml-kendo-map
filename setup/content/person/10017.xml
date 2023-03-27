@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10017</personId>
+  <nameGroup>
+    <givenname>
+      <value>Penni</value>
+    </givenname>
+    <surname>
+      <value>Gresswood</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Penni Gresswood </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-12-16T06:39:16Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2010-05-27T08:31:28Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>agoade0@acquirethisname.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>358-753-1658</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>ccolhoun0@stanford.edu</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>lgahagan1@mail.ru</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>987-620-3928</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>875-33-2267</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-09-29T03:58:21Z</ts>
+        <uploadedBy>nmain0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2019-02-10T00:48:11Z</ts>
+        <uploadedBy>lupton0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>14 Kingsford Trail</street>
+      <city>New York City</city>
+      <state>NY</state>
+      <postal>10292</postal>
+      <country>United States</country>
+      <latitude>40.7808</latitude>
+      <longitude>-73.9772</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>St. Louis College of Pharmacy</name>
+      <city>Erie</city>
+      <state>PA</state>
+      <postal>16534</postal>
+      <latitude>42.1214396</latitude>
+      <longitude>-80.0852698</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-07-31T17:30:48Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-05-30T01:55:58Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2016-07-24T06:17:22Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2018-01-07T00:17:35Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10074.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Abeu Hobden </fullname>
+      <city>Buffalo</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10081.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Mersey Parkisson </fullname>
+      <city>Saint Cloud</city>
+      <state>MN</state>
+    </relation>
+    <relation>
+      <id>/person/10023.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Bronson Hatherleigh </fullname>
+      <city>Reno</city>
+      <state>NV</state>
+    </relation>
+    <relation>
+      <id>/person/10072.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Conrad Tunnah </fullname>
+      <city>Sacramento</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10071.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Alejandrina Chisolm </fullname>
+      <city>Santa Fe</city>
+      <state>NM</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-07T18:12:40Z</ts>
+    <user>pgresswoodg</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-13T21:37:08Z</ts>
+    <user>pgresswoodg</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>rewles0</handle>
+      <address>https://xrea.com/pellentesque/at.json</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>wmccrossan1</handle>
+      <address>https://reddit.com/sed/interdum/venenatis.jsp</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-02-16</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-05</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-01-01</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-02-15</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-02-21</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>false</important>
+      <ts>2022-01-11</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://cornell.edu</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://toplist.cz</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://buzzfeed.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Livepath</place>
+      <predplace>startedAt Livepath</predplace>
+      <ts>2017-05-11T14:25:15Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-12-21T16:05:43Z</ts>
+        <createdBy>Karel Shead</createdBy>
+        <approvedBy>Garold Schoular</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Topicblab</place>
+      <predplace>movedTo Topicblab</predplace>
+      <ts>2019-07-16T22:29:19Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-05-11T10:15:27Z</ts>
+        <createdBy>Imogen Knevet</createdBy>
+        <approvedBy>Nertie Swigger</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Midel</place>
+      <predplace>startedAt Midel</predplace>
+      <ts>2016-07-06T03:41:09Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-04-15T02:27:04Z</ts>
+        <createdBy>Vilhelmina Klewi</createdBy>
+        <approvedBy>Morissa Hanniger</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2018-12-16T18:59:21Z</end>
+      <start>2016-02-21T02:49:38Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://blogger.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://google.com.hk</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://nationalgeographic.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10017.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10017</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10017.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Penni</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10017.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Gresswood</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10017.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10074.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10017.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10081.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10017.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10023.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10017.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10072.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10017.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10071.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

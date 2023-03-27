@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10064</personId>
+  <nameGroup>
+    <givenname>
+      <value>Meghan</value>
+    </givenname>
+    <surname>
+      <value>Sollowaye</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Meghan Sollowaye </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-06-14T19:01:19Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2013-09-16T03:52:02Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-02-01T13:03:40Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>zridges0@amazon.co.uk</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mfullard1@de.vu</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>856-982-9838</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>hgwatkin0@gnu.org</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>446-685-3314</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>316-904-8889</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>414-15-2309</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-07-26T16:12:33Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-04-28T23:13:28Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-08-13T22:08:30Z</ts>
+        <uploadedBy>jpantlin0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2019-01-06T08:29:35Z</ts>
+        <uploadedBy>tcossem0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>976 Bartillon Hill</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <postal>98109</postal>
+      <country>United States</country>
+      <latitude>47.6339</latitude>
+      <longitude>-122.3476</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Louisiana State University and Agricultural and Mechanical College</name>
+      <city>Lakeland</city>
+      <state>FL</state>
+      <postal>33811</postal>
+      <latitude>27.9852231</latitude>
+      <longitude>-82.008014</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-01-21T09:55:59Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Deaconess College of Nursing</name>
+      <city>Saint Louis</city>
+      <state>MO</state>
+      <postal>63150</postal>
+      <latitude>38.63</latitude>
+      <longitude>-90.2099999</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-05-04T21:18:16Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-04-06T11:33:39Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-08-13T14:16:28Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2016-05-16T13:44:46Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2015-07-16T01:44:24Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10071.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Alejandrina Chisolm </fullname>
+      <city>Santa Fe</city>
+      <state>NM</state>
+    </relation>
+    <relation>
+      <id>/person/10080.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Cris Consterdine </fullname>
+      <city>New York City</city>
+      <state>NY</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-09T22:42:19Z</ts>
+    <user>msollowaye1r</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-09T11:10:12Z</ts>
+    <user>msollowaye1r</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>soury0</handle>
+      <address>https://cafepress.com/massa/donec/dapibus/duis/at/velit.jsp</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>bfrancescoccio1</handle>
+      <address>https://geocities.com/augue/quam/sollicitudin/vitae/consectetuer/eget.js</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>nlawling2</handle>
+      <address>https://biblegateway.com/platea/dictumst/aliquam/augue/quam.aspx</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-13</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-02-10</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-02-10</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>true</important>
+      <ts>2022-01-21</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://squarespace.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://elpais.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://wikia.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Skimia</place>
+      <predplace>endedAt Skimia</predplace>
+      <ts>2017-04-18T15:16:34Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-12-19T19:43:34Z</ts>
+        <createdBy>Jarred Freckingham</createdBy>
+        <approvedBy>Ebenezer Sturch</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Lajo</place>
+      <predplace>transferredTo Lajo</predplace>
+      <ts>2016-01-26T04:20:31Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-05-12T12:26:17Z</ts>
+        <createdBy>Alisander Cluatt</createdBy>
+        <approvedBy>Blinny Stoyle</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Brightbean</place>
+      <predplace>transferredTo Brightbean</predplace>
+      <ts>2015-11-23T08:59:56Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-10-22T05:00:38Z</ts>
+        <createdBy>Jareb Haberjam</createdBy>
+        <approvedBy>Willey Callender</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Demivee</place>
+      <predplace>endedAt Demivee</predplace>
+      <ts>2019-05-20T03:40:41Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-10-06T16:01:02Z</ts>
+        <createdBy>Samson Flewan</createdBy>
+        <approvedBy>Maurie Starbucke</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Centidel</place>
+      <predplace>transferredTo Centidel</predplace>
+      <ts>2014-09-18T19:17:15Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-12-29T12:57:45Z</ts>
+        <createdBy>Row McKeand</createdBy>
+        <approvedBy>Cathlene Kelsow</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2017-11-04T05:40:57Z</end>
+      <start>2014-09-12T02:10:05Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://angelfire.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://scientificamerican.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://arizona.edu</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10064.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10064</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10064.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Meghan</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10064.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Sollowaye</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10064.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10071.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10064.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10080.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

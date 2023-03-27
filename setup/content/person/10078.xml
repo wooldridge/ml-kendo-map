@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10078</personId>
+  <nameGroup>
+    <givenname>
+      <value>Rickert</value>
+    </givenname>
+    <surname>
+      <value>Crosetto</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Rickert Crosetto </value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2010-09-30T10:11:43Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-06-14T08:47:05Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>vlefriec0@blogtalkradio.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>ehimsworth1@de.vu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>796-272-7853</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>lmcdermottrow0@reuters.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>652-165-6609</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>237-128-9021</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>665-51-4271</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2012-05-12T05:06:32Z</ts>
+        <uploadedBy>mmccanny0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-12-23T00:18:50Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2011-12-18T06:13:09Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2017-11-27T11:36:15Z</ts>
+        <uploadedBy>gyakunkin0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>88880 Crescent Oaks Pass</street>
+      <city>Austin</city>
+      <state>TX</state>
+      <postal>78732</postal>
+      <country>United States</country>
+      <latitude>30.3752</latitude>
+      <longitude>-97.9007</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>State University of New York Institute of Technology at Utica/Rome</name>
+      <city>Dallas</city>
+      <state>TX</state>
+      <postal>75323</postal>
+      <latitude>44.934021</latitude>
+      <longitude>-123.3072848</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-10-06T16:48:33Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-11-30T08:54:51Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-05-06T19:14:22Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2018-12-17T10:19:37Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2012-04-05T16:54:18Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10076.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Phillipe Mandy </fullname>
+      <city>Savannah</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10066.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Giulia Calles </fullname>
+      <city>Jackson</city>
+      <state>MS</state>
+    </relation>
+    <relation>
+      <id>/person/10089.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Terza Bunhill </fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+    <relation>
+      <id>/person/10051.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Glad Hourican </fullname>
+      <city>Redwood City</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10066.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Giulia Calles </fullname>
+      <city>Jackson</city>
+      <state>MS</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-11T10:35:46Z</ts>
+    <user>rcrosetto25</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-17T12:49:47Z</ts>
+    <user>rcrosetto25</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>bmarousek0</handle>
+      <address>http://va.gov/tincidunt.png</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>nbexley1</handle>
+      <address>http://guardian.co.uk/luctus/nec/molestie.xml</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>aoram2</handle>
+      <address>http://nsw.gov.au/donec/diam.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list11</list>
+      <important>true</important>
+      <ts>2022-01-24</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-14</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-10</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>false</important>
+      <ts>2022-01-02</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://prweb.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://scientificamerican.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://cdbaby.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Browsebug</place>
+      <predplace>movedTo Browsebug</predplace>
+      <ts>2015-02-03T06:29:34Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-06-25T10:27:47Z</ts>
+        <createdBy>Carolina Lutz</createdBy>
+        <approvedBy>Marybeth Mabone</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zazio</place>
+      <predplace>endedAt Zazio</predplace>
+      <ts>2016-07-27T01:10:50Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-12-05T10:50:15Z</ts>
+        <createdBy>Elsy Kolak</createdBy>
+        <approvedBy>Portie Tuppeny</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Dynabox</place>
+      <predplace>startedAt Dynabox</predplace>
+      <ts>2015-01-15T01:36:48Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-04-13T19:57:19Z</ts>
+        <createdBy>Riordan Fallen</createdBy>
+        <approvedBy>Genny Shrieves</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2017-12-29T14:44:28Z</end>
+      <start>2014-11-30T14:00:56Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://desdev.cn</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://howstuffworks.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://domainmarket.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10078.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10078</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10078.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Rickert</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10078.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Crosetto</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10078.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10076.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10078.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10066.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10078.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10089.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10078.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10051.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10078.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10066.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

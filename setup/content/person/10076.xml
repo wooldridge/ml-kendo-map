@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10076</personId>
+  <nameGroup>
+    <givenname>
+      <value>Phillipe</value>
+    </givenname>
+    <surname>
+      <value>Mandy</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Phillipe Mandy </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2014-10-01T20:39:11Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2016-04-07T10:09:01Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2019-07-19T08:05:08Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>kkrol0@sakura.ne.jp</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>dsugars1@facebook.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mdalyiel2@fda.gov</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>919-338-8316</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>aliggett0@nyu.edu</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>nprince1@xinhuanet.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>681-347-3375</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>634-88-5580</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-09-25T03:00:54Z</ts>
+        <uploadedBy>lraddon0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-05-31T02:04:17Z</ts>
+        <uploadedBy>jbruntje0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>56 Porter Lane</street>
+      <city>Savannah</city>
+      <state>GA</state>
+      <postal>31416</postal>
+      <country>United States</country>
+      <latitude>32.0053</latitude>
+      <longitude>-81.0477</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Louisiana State University and Agricultural and Mechanical College</name>
+      <city>Denver</city>
+      <state>CO</state>
+      <postal>80262</postal>
+      <latitude>39.7167888</latitude>
+      <longitude>-104.9665815</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-01-12T18:01:01Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-06-22T00:38:51Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2015-05-31T18:12:24Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10060.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Sabrina Waberer </fullname>
+      <city>Corpus Christi</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10028.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Chan Laborde </fullname>
+      <city>El Paso</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10022.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Gilbertine Ahrendsen </fullname>
+      <city>Los Angeles</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10009.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Siward Desouza </fullname>
+      <city>Burbank</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-25T18:07:01Z</ts>
+    <user>pmandy23</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-14T06:52:15Z</ts>
+    <user>pmandy23</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>mneissen0</handle>
+      <address>https://clickbank.net/venenatis/turpis/enim/blandit.jsp</address>
+    </social>
+  </socials>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://narod.ru</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://virginia.edu</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://guardian.co.uk</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Dabjam</place>
+      <predplace>startedAt Dabjam</predplace>
+      <ts>2018-11-11T18:45:38Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-03-30T15:34:33Z</ts>
+        <createdBy>Sinclare Toy</createdBy>
+        <approvedBy>Ivory Loins</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>BlogXS</place>
+      <predplace>endedAt BlogXS</predplace>
+      <ts>2017-09-13T22:25:59Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-04-08T04:10:22Z</ts>
+        <createdBy>Suzette Ashtonhurst</createdBy>
+        <approvedBy>Chandra Cogzell</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Dablist</place>
+      <predplace>endedAt Dablist</predplace>
+      <ts>2018-11-12T06:33:08Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-06-25T00:34:42Z</ts>
+        <createdBy>Bobbette Mastrantone</createdBy>
+        <approvedBy>Vernon Horsefield</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Shufflester</place>
+      <predplace>transferredTo Shufflester</predplace>
+      <ts>2016-01-11T04:05:44Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-02-10T06:40:46Z</ts>
+        <createdBy>Jerome MacKellen</createdBy>
+        <approvedBy>Bud Row</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2018-06-16T01:58:38Z</end>
+      <start>2015-11-19T07:06:32Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://i2i.jp</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://patch.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://arstechnica.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10076.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10076</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10076.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Phillipe</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10076.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Mandy</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10076.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10060.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10076.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10028.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10076.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10022.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10076.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10009.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

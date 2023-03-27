@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10058</personId>
+  <nameGroup>
+    <givenname>
+      <value>Charline</value>
+    </givenname>
+    <surname>
+      <value>Fishbie</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Charline Fishbie </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-10-12T03:37:40Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2016-10-29T06:16:46Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>jkinnoch0@timesonline.co.uk</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>337-331-5474</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>celph0@etsy.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>mfonquernie1@sakura.ne.jp</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>548-490-2988</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>519-40-3329</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-09-12T19:51:39Z</ts>
+        <uploadedBy>sbolger0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-01-14T21:13:53Z</ts>
+        <uploadedBy>hvella0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>93 Daystar Circle</street>
+      <city>Madison</city>
+      <state>WI</state>
+      <postal>53716</postal>
+      <country>United States</country>
+      <latitude>43.0631</latitude>
+      <longitude>-89.3133</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad de Comunicación Avanzada</name>
+      <city>Amado Nervo</city>
+      <state>NAY</state>
+      <postal>63455</postal>
+      <latitude>19.368252</latitude>
+      <longitude>-99.296058</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-08-02T19:32:49Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Whittier College</name>
+      <city>Lakeland</city>
+      <state>FL</state>
+      <postal>33805</postal>
+      <latitude>28.0964047</latitude>
+      <longitude>-81.9207423</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-05-08T10:45:26Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-31T01:10:49Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-07-29T15:47:29Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2021-06-06T22:12:32Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2010-06-21T11:12:54Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10045.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Joey Christofle </fullname>
+      <city>Kansas City</city>
+      <state>MO</state>
+    </relation>
+    <relation>
+      <id>/person/10083.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Jerri Avarne </fullname>
+      <city>Augusta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10070.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Drusie Markie </fullname>
+      <city>Wichita Falls</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-23T16:30:56Z</ts>
+    <user>cfishbie1l</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-16T10:23:15Z</ts>
+    <user>cfishbie1l</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>owashington0</handle>
+      <address>http://xrea.com/luctus/et/ultrices/posuere/cubilia/curae/duis.js</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-29</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-02-09</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-02-05</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-02-09</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://about.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://a8.net</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://nba.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Buzzster</place>
+      <predplace>transferredTo Buzzster</predplace>
+      <ts>2017-09-21T23:44:31Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-08-12T22:17:09Z</ts>
+        <createdBy>Bethina Wethey</createdBy>
+        <approvedBy>Bernardo Goadby</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Browsezoom</place>
+      <predplace>endedAt Browsezoom</predplace>
+      <ts>2014-03-10T17:13:59Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-05-31T16:04:10Z</ts>
+        <createdBy>Quentin Gosnall</createdBy>
+        <approvedBy>Emlyn Halgarth</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>visited Swift Inc</predplace>
+      <end>2017-09-07T07:10:31Z</end>
+      <start>2014-03-31T01:30:20Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://patch.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://nps.gov</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://imdb.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10058.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10058</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10058.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Charline</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10058.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Fishbie</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10058.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10045.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10058.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10083.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10058.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10070.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

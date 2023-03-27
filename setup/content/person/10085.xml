@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10085</personId>
+  <nameGroup>
+    <givenname>
+      <value>Carena</value>
+    </givenname>
+    <surname>
+      <value>Gratrix</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Carena Gratrix </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-12-28T06:02:34Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2014-08-18T02:25:51Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>bsparway0@wordpress.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>cvenneur1@abc.net.au</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>rcruddas2@cbc.ca</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>355-368-3885</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>mowttrim0@seesaa.net</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>cwarwicker1@cnbc.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>dwhiterod2@posterous.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>159-57-6647</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2014-02-09T14:50:34Z</ts>
+        <uploadedBy>rgeraldini0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2011-08-13T17:19:34Z</ts>
+        <uploadedBy>msnipe0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-08-29T03:00:15Z</ts>
+        <uploadedBy>dguilloton0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>3418 Bashford Crossing</street>
+      <city>Tucson</city>
+      <state>AZ</state>
+      <postal>85725</postal>
+      <country>United States</country>
+      <latitude>31.9701</latitude>
+      <longitude>-111.8907</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Pedagógica Nacional, Unidad León</name>
+      <city>Lindavista</city>
+      <state>GRO</state>
+      <postal>40800</postal>
+      <latitude>19.5037694</latitude>
+      <longitude>-99.1324282</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-09-07T03:11:29Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2019-01-13T01:32:23Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10078.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Rickert Crosetto </fullname>
+      <city>Austin</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10001.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Raine Tarte </fullname>
+      <city>Winston Salem</city>
+      <state>NC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-05T23:28:06Z</ts>
+    <user>cgratrix2c</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-11T07:19:27Z</ts>
+    <user>cgratrix2c</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-05</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-02-20</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-01-29</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://slideshare.net</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://freewebs.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://timesonline.co.uk</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Podcat</place>
+      <predplace>startedAt Podcat</predplace>
+      <ts>2017-09-06T10:48:13Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-03-19T07:47:30Z</ts>
+        <createdBy>Sada Lamerton</createdBy>
+        <approvedBy>Tuesday Stiegar</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Rhybox</place>
+      <predplace>transferredTo Rhybox</predplace>
+      <ts>2013-02-20T01:14:19Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-04-15T12:31:35Z</ts>
+        <createdBy>Basil Bullough</createdBy>
+        <approvedBy>Zitella Nilges</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Edgeclub</place>
+      <predplace>endedAt Edgeclub</predplace>
+      <ts>2014-05-02T11:18:38Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-05-16T07:47:20Z</ts>
+        <createdBy>Bryce Wardhough</createdBy>
+        <approvedBy>Augy Malthus</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Trilith</place>
+      <predplace>transferredTo Trilith</predplace>
+      <ts>2014-11-29T16:26:55Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-05-19T10:06:12Z</ts>
+        <createdBy>Emmalynne Tertre</createdBy>
+        <approvedBy>Milo Libby</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-08-24T23:13:27Z</end>
+      <start>2015-01-06T00:52:59Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://nytimes.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://linkedin.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://walmart.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10085.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10085</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10085.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Carena</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10085.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Gratrix</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10085.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10078.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10085.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10001.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

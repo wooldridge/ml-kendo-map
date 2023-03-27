@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10002</personId>
+  <nameGroup>
+    <givenname>
+      <value>Hermine</value>
+    </givenname>
+    <surname>
+      <value>Van der Mark</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Hermine Van der Mark </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-06-13T12:42:00Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>idonaher0@go.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>ksimmank1@oracle.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>fnegal2@google.com.br</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>899-896-6219</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>pswash0@wordpress.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>rrisom1@dyndns.org</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>517-827-2327</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>636-27-2472</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2020-03-11T22:37:54Z</ts>
+        <uploadedBy>ibickley0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-06-30T07:12:01Z</ts>
+        <uploadedBy>bchismon0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>90 Steensland Drive</street>
+      <city>Young America</city>
+      <state>MN</state>
+      <postal>55557</postal>
+      <country>United States</country>
+      <latitude>44.8055</latitude>
+      <longitude>-93.7665</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Marlboro College</name>
+      <city>Lynn</city>
+      <state>MA</state>
+      <postal>01905</postal>
+      <latitude>42.4678076</latitude>
+      <longitude>-70.9844</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-11-02T20:20:20Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-10-02T19:34:02Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2019-03-09T11:08:45Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2012-07-15T07:34:46Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10049.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Maryjo Flooks </fullname>
+      <city>Saint Cloud</city>
+      <state>MN</state>
+    </relation>
+    <relation>
+      <id>/person/10059.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Jeddy McAtamney </fullname>
+      <city>Tyler</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10032.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Vivian Tallent </fullname>
+      <city>Muncie</city>
+      <state>IN</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-09T19:20:47Z</ts>
+    <user>hvandermark1</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-07T03:40:48Z</ts>
+    <user>hvandermark1</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>fduncombe0</handle>
+      <address>http://shareasale.com/ipsum/primis/in/faucibus/orci/luctus/et.jsp</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>jmoulsdale1</handle>
+      <address>http://desdev.cn/eget/tincidunt/eget.png</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle/>
+      <address>https://biglobe.ne.jp/in/felis/donec/semper/sapien/a.jsp</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-02-08</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>false</important>
+      <ts>2022-01-28</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-26</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-02-22</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://nifty.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://samsung.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://dmoz.org</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Youtags</place>
+      <predplace>movedTo Youtags</predplace>
+      <ts>2013-01-10T03:38:20Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-07-12T02:16:36Z</ts>
+        <createdBy>Judith Audibert</createdBy>
+        <approvedBy>Haydon Wardesworth</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Jatri</place>
+      <predplace>startedAt Jatri</predplace>
+      <ts>2016-12-19T01:05:55Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-02-21T15:03:45Z</ts>
+        <createdBy>Jerri Dyton</createdBy>
+        <approvedBy>Mortimer Boldock</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Digitube</place>
+      <predplace>startedAt Digitube</predplace>
+      <ts>2019-01-02T08:02:11Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-10-14T16:43:26Z</ts>
+        <createdBy>Vivi Eminson</createdBy>
+        <approvedBy>Ambros Vasyutochkin</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Agimba</place>
+      <predplace>endedAt Agimba</predplace>
+      <ts>2012-04-05T15:04:24Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-11-25T22:00:34Z</ts>
+        <createdBy>Robena Truman</createdBy>
+        <approvedBy>Otto Shearwood</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Oyonder</place>
+      <predplace>endedAt Oyonder</predplace>
+      <ts>2019-10-22T21:55:21Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-12-14T22:10:56Z</ts>
+        <createdBy>Janella Pearman</createdBy>
+        <approvedBy>Emmalynn Deftie</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2017-07-02T00:19:12Z</end>
+      <start>2014-10-20T04:07:03Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://youtu.be</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://seattletimes.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://adobe.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10002.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10002</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10002.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Hermine</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10002.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Van der Mark</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10002.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10049.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10002.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10059.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10002.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10032.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

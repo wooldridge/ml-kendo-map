@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10094</personId>
+  <nameGroup>
+    <givenname>
+      <value>Darice</value>
+    </givenname>
+    <surname>
+      <value>Stare</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Darice Stare </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-12-29T07:08:20Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>amcanulty0@about.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mcadwaladr1@ft.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>264-893-6583</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>gvanes0@intel.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>rhonatsch1@domainmarket.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>lcurnucke2@statcounter.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>606-91-0740</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2018-09-03T14:16:22Z</ts>
+        <uploadedBy>celcock0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-07-10T15:06:45Z</ts>
+        <uploadedBy>nedger0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-06-15T04:15:04Z</ts>
+        <uploadedBy>halforde0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>36335 Towne Pass</street>
+      <city>Los Angeles</city>
+      <state>CA</state>
+      <postal>90189</postal>
+      <country>United States</country>
+      <latitude>34.0515</latitude>
+      <longitude>-118.2559</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad del Valle de Puebla</name>
+      <city>Buenavista</city>
+      <state>JAL</state>
+      <postal>47216</postal>
+      <latitude>19.4458447</latitude>
+      <longitude>-99.1497664</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-04-29T09:10:23Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-10-31T03:12:15Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-06-08T10:12:17Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>St. Mary College</name>
+      <city>Milwaukee</city>
+      <state>WI</state>
+      <postal>53234</postal>
+      <latitude>43</latitude>
+      <longitude>-87.97</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-06-06T14:29:10Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-01-09T01:47:36Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-12-14T16:50:30Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2020-05-06T01:46:31Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10016.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Sal Blue </fullname>
+      <city>Little Rock</city>
+      <state>AR</state>
+    </relation>
+    <relation>
+      <id>/person/10069.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Malinde Guess </fullname>
+      <city>South Lake Tahoe</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-27T18:08:51Z</ts>
+    <user>dstare2l</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-21T22:09:16Z</ts>
+    <user>dstare2l</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>lstove0</handle>
+      <address>https://toplist.cz/fusce/congue/diam/id.html</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list11</list>
+      <important>true</important>
+      <ts>2022-02-16</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-22</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-01-08</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-01-05</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://google.com.hk</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://xing.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://huffingtonpost.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Meevee</place>
+      <predplace>endedAt Meevee</predplace>
+      <ts>2017-04-20T13:13:18Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-06-30T02:15:03Z</ts>
+        <createdBy>Helyn Strettle</createdBy>
+        <approvedBy>Allis Mingaye</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Rhynyx</place>
+      <predplace>transferredTo Rhynyx</predplace>
+      <ts>2018-03-12T17:27:00Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-12-18T08:19:06Z</ts>
+        <createdBy>Myles Tidball</createdBy>
+        <approvedBy>Marika Wordley</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Skiptube</place>
+      <predplace>endedAt Skiptube</predplace>
+      <ts>2020-01-06T13:11:26Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-08T23:10:54Z</ts>
+        <createdBy>Elset Catlin</createdBy>
+        <approvedBy>Jordan DeSousa</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Skiptube</place>
+      <predplace>endedAt Skiptube</predplace>
+      <ts>2016-12-15T04:19:01Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-12-06T11:06:40Z</ts>
+        <createdBy>Quintus Halsall</createdBy>
+        <approvedBy>Wrennie McDermott</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Dynazzy</place>
+      <predplace>startedAt Dynazzy</predplace>
+      <ts>2012-10-05T07:37:02Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-07-12T22:57:42Z</ts>
+        <createdBy>Marcy Cunnington</createdBy>
+        <approvedBy>Gran Tanzig</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-02-18T05:16:18Z</end>
+      <start>2015-09-04T07:00:19Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://e-recht24.de</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://altervista.org</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://livejournal.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10094.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10094</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10094.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Darice</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10094.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Stare</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10094.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10016.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10094.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10069.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

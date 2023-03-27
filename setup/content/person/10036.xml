@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10036</personId>
+  <nameGroup>
+    <givenname>
+      <value>Doro</value>
+    </givenname>
+    <surname>
+      <value>Petrol</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Doro Petrol </value>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2015-12-25T13:11:49Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-10-11T17:28:50Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>ldungate0@miitbeian.gov.cn</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>jradborn1@elpais.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>587-797-1046</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>gstquentin0@disqus.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>485-190-0374</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>sriddiford2@amazon.de</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>344-96-2885</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-03-02T07:45:19Z</ts>
+        <uploadedBy>emcwilliam0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2012-04-16T13:47:29Z</ts>
+        <uploadedBy>dpollock0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2020-11-25T21:58:38Z</ts>
+        <uploadedBy>sneate0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2016-03-24T02:33:39Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>4 Spohn Hill</street>
+      <city>Louisville</city>
+      <state>KY</state>
+      <postal>40205</postal>
+      <country>United States</country>
+      <latitude>38.2222</latitude>
+      <longitude>-85.6885</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Ohio State University</name>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20310</postal>
+      <latitude>38.9273849</latitude>
+      <longitude>-77.0125445</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-09-25T19:04:57Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-05-04T14:28:47Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2012-11-07T02:26:38Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2010-04-07T15:36:13Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2016-08-31T00:23:33Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10014.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Ivor Innman </fullname>
+      <city>Amarillo</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10042.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Ardelis Wemes </fullname>
+      <city>Indianapolis</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10013.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Elaine Walklott </fullname>
+      <city>Winston Salem</city>
+      <state>NC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-03T08:54:54Z</ts>
+    <user>dpetrolz</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-19T00:09:32Z</ts>
+    <user>dpetrolz</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>kthaxter0</handle>
+      <address>https://surveymonkey.com/ut/dolor/morbi/vel/lectus/in/quam.xml</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>scarcas1</handle>
+      <address>https://mapquest.com/penatibus/et/magnis/dis.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-01-01</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-27</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-21</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-01-11</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://soup.io</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://wikia.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://deviantart.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Twitterworks</place>
+      <predplace>endedAt Twitterworks</predplace>
+      <ts>2015-09-17T05:55:49Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-07-19T02:12:42Z</ts>
+        <createdBy>Maurizia Newsham</createdBy>
+        <approvedBy>Woody Marling</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Meevee</place>
+      <predplace>transferredTo Meevee</predplace>
+      <ts>2014-05-28T20:24:13Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-12-02T11:35:38Z</ts>
+        <createdBy>Pascale Lieber</createdBy>
+        <approvedBy>Torrence Bruckental</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zoomcast</place>
+      <predplace>endedAt Zoomcast</predplace>
+      <ts>2015-07-15T01:28:46Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-30T21:03:11Z</ts>
+        <createdBy>Manon Mingotti</createdBy>
+        <approvedBy>Mirilla Mulhill</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2017-08-06T03:56:19Z</end>
+      <start>2014-03-20T22:18:12Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://feedburner.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://tripadvisor.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://issuu.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10036.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10036</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10036.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Doro</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10036.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Petrol</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10036.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10014.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10036.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10042.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10036.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10013.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

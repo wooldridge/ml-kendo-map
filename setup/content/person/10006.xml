@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10006</personId>
+  <nameGroup>
+    <givenname>
+      <value>Mirilla</value>
+    </givenname>
+    <surname>
+      <value>Ramshaw</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Mirilla Ramshaw </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2014-10-27T08:31:45Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-04-08T12:24:23Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>bhumble0@prlog.org</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>811-877-9433</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>dwitchell0@mozilla.org</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>cjewkes1@live.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>791-431-8992</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>787-95-3251</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2011-11-23T09:37:16Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-05-14T13:43:56Z</ts>
+        <uploadedBy>cschettini0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-06-13T17:32:04Z</ts>
+        <uploadedBy>pbarrabeale0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-02-19T01:31:40Z</ts>
+        <uploadedBy>cmarte0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>1 Village Green Plaza</street>
+      <city>Odessa</city>
+      <state>TX</state>
+      <postal>79769</postal>
+      <country>United States</country>
+      <latitude>31.7466</latitude>
+      <longitude>-102.567</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Kansas City Art Institute</name>
+      <city>Portland</city>
+      <state>OR</state>
+      <postal>97229</postal>
+      <latitude>45.5593978</latitude>
+      <longitude>-122.807445</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-05-08T08:38:49Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2011-01-10T07:35:27Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10001.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Raine Tarte </fullname>
+      <city>Winston Salem</city>
+      <state>NC</state>
+    </relation>
+    <relation>
+      <id>/person/10089.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Terza Bunhill </fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+    <relation>
+      <id>/person/10063.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Kathryn Nutkin </fullname>
+      <city>Gainesville</city>
+      <state>FL</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-18T04:53:28Z</ts>
+    <user>mramshaw5</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-23T15:42:10Z</ts>
+    <user>mramshaw5</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>gbernaldo0</handle>
+      <address>https://wired.com/sapien/dignissim/vestibulum/vestibulum/ante/ipsum/primis.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-14</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-21</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-02-13</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://artisteer.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://hexun.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://yahoo.co.jp</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Abata</place>
+      <predplace>endedAt Abata</predplace>
+      <ts>2013-06-30T14:58:07Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-04-18T03:46:46Z</ts>
+        <createdBy>Cassandry Pealing</createdBy>
+        <approvedBy>Drew Yardley</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Flashset</place>
+      <predplace>startedAt Flashset</predplace>
+      <ts>2014-06-05T00:55:19Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-12T22:02:04Z</ts>
+        <createdBy>Coraline Blackhurst</createdBy>
+        <approvedBy>Bertrand Buncom</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2018-07-13T02:39:55Z</end>
+      <start>2016-04-27T08:49:32Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://addtoany.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://wisc.edu</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://shinystat.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10006.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10006</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10006.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Mirilla</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10006.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Ramshaw</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10006.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10001.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10006.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10089.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10006.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10063.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

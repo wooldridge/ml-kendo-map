@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10001</personId>
+  <nameGroup>
+    <givenname>
+      <value>Raine</value>
+    </givenname>
+    <surname>
+      <value>Tarte</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Raine Tarte </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-04-08T03:36:15Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-11-21T01:27:05Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-02-09T01:36:09Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>dbravington0@abc.net.au</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>817-193-1611</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>lbanane0@intel.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>509-942-4543</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>alambal2@washingtonpost.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>108-81-8465</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-10-05T12:37:39Z</ts>
+        <uploadedBy>kcrumpton0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2011-11-05T12:29:08Z</ts>
+        <uploadedBy>gbeilby0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-11-25T22:24:05Z</ts>
+        <uploadedBy>ctattershaw0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>31 Kensington Court</street>
+      <city>Winston Salem</city>
+      <state>NC</state>
+      <postal>27105</postal>
+      <country>United States</country>
+      <latitude>36.144</latitude>
+      <longitude>-80.2376</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Southern Utah University</name>
+      <city>Chicago</city>
+      <state>IL</state>
+      <postal>60652</postal>
+      <latitude>41.7429283</latitude>
+      <longitude>-87.7123355</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-09-06T22:52:32Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Nuevo Mundo</name>
+      <city>Revolucion Verde</city>
+      <state>TAM</state>
+      <postal>87445</postal>
+      <latitude>25.8513334</latitude>
+      <longitude>-97.45842</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-03-14T00:07:10Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-10-28T04:23:46Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2019-03-09T12:06:37Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2014-08-05T09:12:56Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2012-10-05T19:13:12Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2016-11-07T01:03:57Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10018.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Lesley Spalton </fullname>
+      <city>South Lake Tahoe</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10084.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Crista Meeking </fullname>
+      <city>Eugene</city>
+      <state>OR</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-30T01:40:40Z</ts>
+    <user>rtarte0</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-17T16:08:01Z</ts>
+    <user>rtarte0</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-01-01</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-22</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-01-15</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://parallels.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://scribd.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://odnoklassniki.ru</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Yodo</place>
+      <predplace>endedAt Yodo</predplace>
+      <ts>2012-08-22T11:02:20Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-10-19T19:52:50Z</ts>
+        <createdBy>Aylmer Sharrem</createdBy>
+        <approvedBy>Lynn Jelfs</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Ooba</place>
+      <predplace>startedAt Ooba</predplace>
+      <ts>2014-05-09T18:18:18Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-04-25T23:05:50Z</ts>
+        <createdBy>Mack Crean</createdBy>
+        <approvedBy>Leonid Smedmoor</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zoomdog</place>
+      <predplace>endedAt Zoomdog</predplace>
+      <ts>2014-09-09T20:37:31Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-09-14T20:30:11Z</ts>
+        <createdBy>Leland Pride</createdBy>
+        <approvedBy>Camella Tranmer</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Mydo</place>
+      <predplace>startedAt Mydo</predplace>
+      <ts>2013-07-03T15:51:59Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2022-01-19T13:53:48Z</ts>
+        <createdBy>Mallissa Clawson</createdBy>
+        <approvedBy>Louise Balham</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-02-24T19:49:36Z</end>
+      <start>2015-05-13T13:46:36Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://loc.gov</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://discuz.net</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://mac.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10001.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10001</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10001.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Raine</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10001.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Tarte</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10001.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10018.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10001.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10084.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

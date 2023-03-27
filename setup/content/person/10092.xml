@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10092</personId>
+  <nameGroup>
+    <givenname>
+      <value>Jermayne</value>
+    </givenname>
+    <surname>
+      <value>Anthony</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Jermayne Anthony </value>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-03-29T20:48:23Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>rbarok0@tripadvisor.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>yyakolev1@usda.gov</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>960-223-9267</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>kinge0@cbsnews.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>nellson1@aboutads.info</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>jdenison2@alexa.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>576-40-7478</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-02-17T10:14:58Z</ts>
+        <uploadedBy>lwhellans0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-06-08T23:01:29Z</ts>
+        <uploadedBy>gbouette0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>7678 Toban Crossing</street>
+      <city>Greensboro</city>
+      <state>NC</state>
+      <postal>27415</postal>
+      <country>United States</country>
+      <latitude>36.0807</latitude>
+      <longitude>-80.0244</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Armstrong Atlantic State University</name>
+      <city>Huntsville</city>
+      <state>AL</state>
+      <postal>35895</postal>
+      <latitude>34.7299999</latitude>
+      <longitude>-86.59</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-06-17T16:47:30Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Bridgewater State College</name>
+      <city>Springfield</city>
+      <state>IL</state>
+      <postal>62705</postal>
+      <latitude>39.8</latitude>
+      <longitude>-89.65</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-06-14T03:26:33Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2019-06-14T10:03:29Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2014-04-28T21:27:43Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10077.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Jada Essame </fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10053.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Roxie Yule </fullname>
+      <city>Detroit</city>
+      <state>MI</state>
+    </relation>
+    <relation>
+      <id>/person/10004.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Sheffie Murison </fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+    <relation>
+      <id>/person/10061.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Adriane Ivashov </fullname>
+      <city>Austin</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10062.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Garold Vian </fullname>
+      <city>Raleigh</city>
+      <state>NC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-18T11:23:31Z</ts>
+    <user>janthony2j</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-19T17:21:44Z</ts>
+    <user>janthony2j</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>cballister0</handle>
+      <address>http://qq.com/diam/nam/tristique/tortor/eu.jpg</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-25</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>true</important>
+      <ts>2022-02-04</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>true</important>
+      <ts>2022-02-17</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://independent.co.uk</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://vk.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://ycombinator.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Photospace</place>
+      <predplace>startedAt Photospace</predplace>
+      <ts>2017-05-24T03:53:19Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-12-29T02:19:13Z</ts>
+        <createdBy>Kermy McGuffog</createdBy>
+        <approvedBy>Cynthie Attride</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Viva</place>
+      <predplace>startedAt Viva</predplace>
+      <ts>2014-01-11T05:11:10Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-25T02:44:40Z</ts>
+        <createdBy>Kalle Bothie</createdBy>
+        <approvedBy>Zackariah McCrae</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2017-03-18T09:02:17Z</end>
+      <start>2014-05-11T06:42:48Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://paginegialle.it</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://tripadvisor.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://mozilla.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10092.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10092</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10092.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Jermayne</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10092.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Anthony</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10092.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10077.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10092.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10053.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10092.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10004.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10092.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10061.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10092.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10062.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

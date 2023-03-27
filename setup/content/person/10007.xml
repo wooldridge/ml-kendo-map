@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10007</personId>
+  <nameGroup>
+    <givenname>
+      <value>Carol</value>
+    </givenname>
+    <surname>
+      <value>Gabriely</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Carol Gabriely </value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-09-09T23:09:08Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-02-15T07:23:48Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2011-11-22T13:49:50Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>jcambell0@is.gd</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>kmaccaig1@woothemes.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>336-708-7814</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>181-381-3702</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>tgiacomasso1@pcworld.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>204-427-7732</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>751-37-7170</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-10-06T13:54:05Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-08-26T18:58:12Z</ts>
+        <uploadedBy>eeastmond0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>872 Sycamore Crossing</street>
+      <city>Anderson</city>
+      <state>SC</state>
+      <postal>29625</postal>
+      <country>United States</country>
+      <latitude>34.5271</latitude>
+      <longitude>-82.7087</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Wheelock College</name>
+      <city>Hartford</city>
+      <state>CT</state>
+      <postal>06105</postal>
+      <latitude>41.7721061</latitude>
+      <longitude>-72.7038047</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-10-11T22:46:40Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-31T04:50:38Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-06-21T15:26:35Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2015-10-25T21:00:54Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10006.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Mirilla Ramshaw </fullname>
+      <city>Odessa</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10088.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Vincents Clementel </fullname>
+      <city>Lehigh Acres</city>
+      <state>FL</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-05T13:08:33Z</ts>
+    <user>cgabriely6</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-22T12:05:24Z</ts>
+    <user>cgabriely6</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>jbell0</handle>
+      <address>https://so-net.ne.jp/amet/cursus/id/turpis/integer/aliquet.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-09</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://webmd.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://dion.ne.jp</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://joomla.org</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zava</place>
+      <predplace>endedAt Zava</predplace>
+      <ts>2016-01-26T05:02:52Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-05-03T21:47:40Z</ts>
+        <createdBy>Holt Senecaux</createdBy>
+        <approvedBy>Clyde Gounard</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Vipe</place>
+      <predplace>endedAt Vipe</predplace>
+      <ts>2019-12-28T12:50:44Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-09-24T21:40:12Z</ts>
+        <createdBy>Kiersten Ambrois</createdBy>
+        <approvedBy>Oralia Cantillon</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2018-04-11T12:14:56Z</end>
+      <start>2016-04-16T17:58:30Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://yahoo.co.jp</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://army.mil</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://is.gd</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10007.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10007</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10007.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Carol</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10007.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Gabriely</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10007.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10006.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10007.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10088.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

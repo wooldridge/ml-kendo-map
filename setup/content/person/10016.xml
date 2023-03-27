@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10016</personId>
+  <nameGroup>
+    <givenname>
+      <value>Sal</value>
+    </givenname>
+    <surname>
+      <value>Blue</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Sal Blue </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-07-30T01:59:36Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2016-03-16T07:32:30Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2019-12-07T21:28:28Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>promaynes0@constantcontact.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>dgammack1@miibeian.gov.cn</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>992-314-9956</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>702-395-2932</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>579-698-5635</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>894-487-7722</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>524-57-9907</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-07-08T13:32:07Z</ts>
+        <uploadedBy>kchrippes0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-01-21T10:19:03Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-01-31T08:34:07Z</ts>
+        <uploadedBy>tkohring0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>42153 Vidon Avenue</street>
+      <city>Little Rock</city>
+      <state>AR</state>
+      <postal>72231</postal>
+      <country>United States</country>
+      <latitude>34.8019</latitude>
+      <longitude>-92.1894</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma de Chapingo</name>
+      <city>Fovissste</city>
+      <state>PUE</state>
+      <postal>75483</postal>
+      <latitude>19.4344475</latitude>
+      <longitude>-99.1532952</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-10-30T15:25:52Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-08-11T00:26:29Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2013-08-16T11:10:13Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10083.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Jerri Avarne </fullname>
+      <city>Augusta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10016.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Sal Blue </fullname>
+      <city>Little Rock</city>
+      <state>AR</state>
+    </relation>
+    <relation>
+      <id>/person/10034.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Carmita Kubal </fullname>
+      <city>Charleston</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10055.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Balduin Harrington </fullname>
+      <city>Birmingham</city>
+      <state>AL</state>
+    </relation>
+    <relation>
+      <id>/person/10089.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Terza Bunhill </fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-21T04:17:40Z</ts>
+    <user>sbluef</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-26T21:44:52Z</ts>
+    <user>sbluef</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>ggrombridge0</handle>
+      <address>https://goo.gl/libero/quis/orci.xml</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle/>
+      <address>http://senate.gov/vel/augue/vestibulum/rutrum/rutrum/neque.aspx</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>berangey2</handle>
+      <address>http://squarespace.com/nibh/ligula/nec/sem.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-22</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-01-27</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-06</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-02-22</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-04</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://go.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://parallels.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://dmoz.org</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Divavu</place>
+      <predplace>transferredTo Divavu</predplace>
+      <ts>2013-04-02T16:35:35Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-02-25T19:13:18Z</ts>
+        <createdBy>Gerhardt Sennett</createdBy>
+        <approvedBy>Devon Brew</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Tambee</place>
+      <predplace>endedAt Tambee</predplace>
+      <ts>2016-12-12T06:44:47Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-12T10:08:22Z</ts>
+        <createdBy>Maurits Hamil</createdBy>
+        <approvedBy>Jessy Damsell</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Thoughtsphere</place>
+      <predplace>endedAt Thoughtsphere</predplace>
+      <ts>2019-09-10T08:37:25Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2022-01-13T10:34:46Z</ts>
+        <createdBy>Frederik McMorland</createdBy>
+        <approvedBy>Blinny Oswick</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Browsedrive</place>
+      <predplace>movedTo Browsedrive</predplace>
+      <ts>2013-03-22T05:54:42Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-04-20T14:16:37Z</ts>
+        <createdBy>Agnes Rankine</createdBy>
+        <approvedBy>Leeanne Fold</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>visited Swift Inc</predplace>
+      <end>2018-10-11T10:19:41Z</end>
+      <start>2014-01-23T09:12:29Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://nature.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://php.net</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://tinypic.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10016.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10016</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10016.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Sal</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10016.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Blue</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10016.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10083.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10016.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10016.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10016.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10034.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10016.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10055.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10016.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10089.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

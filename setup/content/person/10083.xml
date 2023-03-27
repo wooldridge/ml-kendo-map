@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10083</personId>
+  <nameGroup>
+    <givenname>
+      <value>Jerri</value>
+    </givenname>
+    <surname>
+      <value>Avarne</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Jerri Avarne </value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2014-04-22T18:18:32Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-11-11T04:47:14Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>epaynton0@deviantart.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mbasili1@google.com.hk</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>vmeharry2@blinklist.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>527-245-3861</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>glyosik0@smugmug.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>753-637-2017</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>celsegood2@xrea.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>409-04-0109</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-10-20T13:00:16Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2011-12-02T18:45:41Z</ts>
+        <uploadedBy>bunworth0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>35 Cherokee Center</street>
+      <city>Augusta</city>
+      <state>GA</state>
+      <postal>30905</postal>
+      <country>United States</country>
+      <latitude>33.413</latitude>
+      <longitude>-82.1337</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>Algonquin College</name>
+      <city>Logan Lake</city>
+      <state>BC</state>
+      <postal>T3S</postal>
+      <latitude>50.49976</latitude>
+      <longitude>-120.80253</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-06-19T03:33:04Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-11-26T13:02:01Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2013-10-28T09:20:54Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2020-10-03T11:17:00Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10089.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Terza Bunhill </fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+    <relation>
+      <id>/person/10017.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Penni Gresswood </fullname>
+      <city>New York City</city>
+      <state>NY</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-31T18:19:35Z</ts>
+    <user>javarne2a</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-01T10:25:46Z</ts>
+    <user>javarne2a</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list8</list>
+      <important>true</important>
+      <ts>2022-02-21</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://google.fr</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://quantcast.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://mysql.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Kimia</place>
+      <predplace>movedTo Kimia</predplace>
+      <ts>2015-02-15T00:23:45Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-03-26T12:13:32Z</ts>
+        <createdBy>Albert Meconi</createdBy>
+        <approvedBy>Elladine Skelhorn</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Browsebug</place>
+      <predplace>movedTo Browsebug</predplace>
+      <ts>2019-03-08T03:29:50Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-04T23:29:14Z</ts>
+        <createdBy>Erhart Caso</createdBy>
+        <approvedBy>Arron Barrus</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Eabox</place>
+      <predplace>transferredTo Eabox</predplace>
+      <ts>2015-08-12T22:39:16Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-04-16T18:54:33Z</ts>
+        <createdBy>Wells Kingzet</createdBy>
+        <approvedBy>Cesar Blowen</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2017-12-18T09:19:32Z</end>
+      <start>2014-01-23T22:38:54Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://smh.com.au</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://mysql.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://nymag.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10083.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10083</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10083.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Jerri</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10083.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Avarne</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10083.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10089.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10083.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10017.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

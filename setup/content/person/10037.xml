@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10037</personId>
+  <nameGroup>
+    <givenname>
+      <value>Calla</value>
+    </givenname>
+    <surname>
+      <value>Jacquemard</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Calla Jacquemard </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-11-20T16:39:59Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-12-19T04:41:36Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>tcostello0@ehow.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>amixhel1@sun.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>cmore2@indiegogo.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>915-919-7840</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>rriddich0@chicagotribune.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>scapin1@exblog.jp</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>aerangy2@mtv.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>506-44-5284</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-04-01T03:34:44Z</ts>
+        <uploadedBy>brobers0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-12-14T22:13:30Z</ts>
+        <uploadedBy>pclem0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-01-31T23:11:55Z</ts>
+        <uploadedBy>aaphale0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>17866 Messerschmidt Center</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <postal>60604</postal>
+      <country>United States</country>
+      <latitude>41.8784</latitude>
+      <longitude>-87.633</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma de Fresnillo</name>
+      <city>Zaragoza</city>
+      <state>CHP</state>
+      <postal>26930</postal>
+      <latitude>28.4943597</latitude>
+      <longitude>-100.9185477</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-05-17T03:04:52Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-01-07T17:10:32Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Marymount University</name>
+      <city>Fort Wayne</city>
+      <state>IN</state>
+      <postal>46896</postal>
+      <latitude>41.01</latitude>
+      <longitude>-85.06</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-09-26T13:23:37Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-11-06T05:30:37Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2014-08-15T06:01:40Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2012-05-20T07:19:24Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10034.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Carmita Kubal </fullname>
+      <city>Charleston</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10083.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Jerri Avarne </fullname>
+      <city>Augusta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10075.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Kerr Lewsam </fullname>
+      <city>Denver</city>
+      <state>CO</state>
+    </relation>
+    <relation>
+      <id>/person/10031.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Farly Munkley </fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+    <relation>
+      <id>/person/10018.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Lesley Spalton </fullname>
+      <city>South Lake Tahoe</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-20T14:54:10Z</ts>
+    <user>cjacquemard10</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-21T19:40:16Z</ts>
+    <user>cjacquemard10</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>rdeelay0</handle>
+      <address>https://arizona.edu/ligula/sit/amet/eleifend/pede.aspx</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>amacsorley1</handle>
+      <address>http://nbcnews.com/dolor.jsp</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>cfright2</handle>
+      <address>http://meetup.com/lectus/in/est/risus/auctor/sed.js</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-01-16</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://comcast.net</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://bloglovin.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://addtoany.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Meeveo</place>
+      <predplace>movedTo Meeveo</predplace>
+      <ts>2012-12-04T23:03:48Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-18T04:12:18Z</ts>
+        <createdBy>Haven Trahar</createdBy>
+        <approvedBy>Domini Hartgill</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Jaxworks</place>
+      <predplace>movedTo Jaxworks</predplace>
+      <ts>2013-02-06T07:42:50Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-14T20:08:08Z</ts>
+        <createdBy>Dannie Oosthout de Vree</createdBy>
+        <approvedBy>Vikky Jeandel</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Shufflester</place>
+      <predplace>startedAt Shufflester</predplace>
+      <ts>2016-09-06T20:33:53Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-12-16T01:43:32Z</ts>
+        <createdBy>Ariadne Skynner</createdBy>
+        <approvedBy>Leese Davenhall</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Geba</place>
+      <predplace>endedAt Geba</predplace>
+      <ts>2015-11-23T13:36:49Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-07-17T07:10:21Z</ts>
+        <createdBy>Gardie Bambury</createdBy>
+        <approvedBy>Urban Hundy</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2017-07-31T11:00:58Z</end>
+      <start>2015-01-16T13:42:49Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://spiegel.de</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://t.co</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://hexun.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10037.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10037</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10037.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Calla</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10037.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Jacquemard</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10037.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10034.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10037.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10083.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10037.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10075.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10037.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10031.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10037.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10018.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10028</personId>
+  <nameGroup>
+    <givenname>
+      <value>Chan</value>
+    </givenname>
+    <surname>
+      <value>Laborde</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Chan Laborde </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-08-30T14:14:46Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>htomasicchio0@washingtonpost.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>ohickisson1@ameblo.jp</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>zfleetham2@army.mil</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>367-580-8652</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>thorche0@cnn.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>473-292-7347</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>818-159-0564</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>774-83-8284</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-05-10T04:54:54Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-02-27T22:53:59Z</ts>
+        <uploadedBy>dlambertini0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>909 Petterle Way</street>
+      <city>El Paso</city>
+      <state>TX</state>
+      <postal>79940</postal>
+      <country>United States</country>
+      <latitude>31.6948</latitude>
+      <longitude>-106.3</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Christopher Newport University</name>
+      <city>Montgomery</city>
+      <state>AL</state>
+      <postal>36177</postal>
+      <latitude>32.2299999</latitude>
+      <longitude>-86.19</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-05-08T09:05:54Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-09-14T12:35:46Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2018-07-28T08:43:55Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2015-01-05T22:29:17Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10084.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Crista Meeking </fullname>
+      <city>Eugene</city>
+      <state>OR</state>
+    </relation>
+    <relation>
+      <id>/person/10032.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Vivian Tallent </fullname>
+      <city>Muncie</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10027.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Calypso Hasselby </fullname>
+      <city>Houston</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-06T07:39:45Z</ts>
+    <user>claborder</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-02T01:55:27Z</ts>
+    <user>claborder</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>bkemshell0</handle>
+      <address>http://google.nl/ac/nulla/sed.png</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>tfoulcher1</handle>
+      <address>https://cafepress.com/sapien/non/mi/integer/ac.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-15</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-01-18</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-02-15</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-02-04</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-08</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://mac.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://etsy.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://slideshare.net</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Lazz</place>
+      <predplace>endedAt Lazz</predplace>
+      <ts>2013-07-07T11:09:59Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-12-27T17:21:17Z</ts>
+        <createdBy>Dania Howarth</createdBy>
+        <approvedBy>Torin Shirley</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Einti</place>
+      <predplace>transferredTo Einti</predplace>
+      <ts>2014-03-09T21:31:23Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-06-27T19:59:45Z</ts>
+        <createdBy>Darbie Tallboy</createdBy>
+        <approvedBy>Cymbre Mackin</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Snaptags</place>
+      <predplace>transferredTo Snaptags</predplace>
+      <ts>2017-07-03T02:54:29Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-05-02T09:09:27Z</ts>
+        <createdBy>Jacquelin Vossgen</createdBy>
+        <approvedBy>Gilburt Fahy</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Gigazoom</place>
+      <predplace>movedTo Gigazoom</predplace>
+      <ts>2019-12-10T16:11:15Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-12-18T03:43:03Z</ts>
+        <createdBy>Lotti Circuit</createdBy>
+        <approvedBy>Smitty Grenkov</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Mymm</place>
+      <predplace>movedTo Mymm</predplace>
+      <ts>2019-03-26T21:28:11Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-10-11T22:22:52Z</ts>
+        <createdBy>Lin Ziehms</createdBy>
+        <approvedBy>Gris Kubis</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2017-06-17T14:26:39Z</end>
+      <start>2016-02-16T07:42:13Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://geocities.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://amazon.co.jp</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://netscape.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10028.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10028</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10028.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Chan</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10028.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Laborde</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10028.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10084.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10028.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10032.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10028.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10027.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

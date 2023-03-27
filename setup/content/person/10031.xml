@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10031</personId>
+  <nameGroup>
+    <givenname>
+      <value>Farly</value>
+    </givenname>
+    <surname>
+      <value>Munkley</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Farly Munkley </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-07-24T12:08:27Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2012-10-04T06:53:15Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-01-12T14:14:30Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>fdeglanville0@ucoz.ru</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>lfendlow1@cornell.edu</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>lribchester2@redcross.org</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>744-428-6302</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>imagovern0@netscape.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>pimesen1@senate.gov</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>rtomblett2@epa.gov</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>897-98-1519</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-08-12T23:24:03Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2014-12-28T11:30:02Z</ts>
+        <uploadedBy>dhaslegrave0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>947 Monterey Lane</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <postal>98109</postal>
+      <country>United States</country>
+      <latitude>47.6339</latitude>
+      <longitude>-122.3476</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>University of Alabama - Huntsville</name>
+      <city>Long Beach</city>
+      <state>CA</state>
+      <postal>90805</postal>
+      <latitude>33.8640647</latitude>
+      <longitude>-118.1766294</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-02-07T19:57:01Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-12-17T15:19:02Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2021-02-23T13:42:20Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10007.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Carol Gabriely </fullname>
+      <city>Anderson</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10062.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Garold Vian </fullname>
+      <city>Raleigh</city>
+      <state>NC</state>
+    </relation>
+    <relation>
+      <id>/person/10086.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Lexy Lewry </fullname>
+      <city>New Haven</city>
+      <state>CT</state>
+    </relation>
+    <relation>
+      <id>/person/10036.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Doro Petrol </fullname>
+      <city>Louisville</city>
+      <state>KY</state>
+    </relation>
+    <relation>
+      <id>/person/10042.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Ardelis Wemes </fullname>
+      <city>Indianapolis</city>
+      <state>IN</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-13T09:09:36Z</ts>
+    <user>fmunkleyu</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-17T13:36:09Z</ts>
+    <user>fmunkleyu</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>kgoodwell0</handle>
+      <address>https://squarespace.com/aliquam/erat/volutpat/in/congue/etiam.png</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>lkornalik1</handle>
+      <address>http://huffingtonpost.com/facilisi/cras.html</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>jdensey2</handle>
+      <address>http://feedburner.com/nec/nisi/volutpat/eleifend.html</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-21</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-25</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://ow.ly</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://blogspot.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://t.co</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Skinte</place>
+      <predplace>movedTo Skinte</predplace>
+      <ts>2013-05-24T05:23:01Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-02-23T23:37:50Z</ts>
+        <createdBy>Lizabeth Covely</createdBy>
+        <approvedBy>Auberta Unsworth</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Jabbercube</place>
+      <predplace>endedAt Jabbercube</predplace>
+      <ts>2014-11-10T17:31:05Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-08-24T07:45:48Z</ts>
+        <createdBy>Percy Caukill</createdBy>
+        <approvedBy>Aldin Temby</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>visited Swift Inc</predplace>
+      <end>2017-09-29T14:11:26Z</end>
+      <start>2015-08-23T05:19:27Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://godaddy.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://nifty.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://geocities.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10031.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10031</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10031.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Farly</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10031.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Munkley</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10031.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10007.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10031.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10062.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10031.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10086.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10031.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10036.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10031.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10042.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

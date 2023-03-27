@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10011</personId>
+  <nameGroup>
+    <givenname>
+      <value>Reinald</value>
+    </givenname>
+    <surname>
+      <value>Gierke</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Reinald Gierke </value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2015-09-07T11:19:45Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>evasyagin0@dion.ne.jp</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>144-458-4289</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>515-445-1863</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>879-511-1277</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>886-986-3550</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>194-71-9147</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-01-21T11:11:53Z</ts>
+        <uploadedBy>gpawels0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-02-05T17:31:52Z</ts>
+        <uploadedBy>apaoli0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>51076 Buhler Pass</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <postal>46216</postal>
+      <country>United States</country>
+      <latitude>39.8647</latitude>
+      <longitude>-86.0136</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Massachusetts Maritime Academy</name>
+      <city>Columbia</city>
+      <state>SC</state>
+      <postal>29220</postal>
+      <latitude>34.0067522</latitude>
+      <longitude>-81.0330246</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-12-06T23:49:06Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-01-08T23:46:55Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Mercer University</name>
+      <city>Austin</city>
+      <state>TX</state>
+      <postal>78759</postal>
+      <latitude>30.401356</latitude>
+      <longitude>-97.7525352</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-01-21T01:55:00Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-07-28T22:37:15Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-04-18T05:29:16Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2013-07-14T14:14:20Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2013-08-25T17:49:25Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10039.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Glad Yurkov </fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10037.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Calla Jacquemard </fullname>
+      <city>Chicago</city>
+      <state>IL</state>
+    </relation>
+    <relation>
+      <id>/person/10031.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Farly Munkley </fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+    <relation>
+      <id>/person/10062.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Garold Vian </fullname>
+      <city>Raleigh</city>
+      <state>NC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-27T13:34:31Z</ts>
+    <user>rgierkea</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-14T18:55:23Z</ts>
+    <user>rgierkea</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-01-23</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>false</important>
+      <ts>2022-01-11</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-01-10</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-25</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-01-30</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://dot.gov</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://cmu.edu</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://geocities.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Topiczoom</place>
+      <predplace>endedAt Topiczoom</predplace>
+      <ts>2016-07-30T17:49:53Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-08-09T08:07:21Z</ts>
+        <createdBy>Joshuah Hadwin</createdBy>
+        <approvedBy>Mill Birdwhistell</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Vidoo</place>
+      <predplace>endedAt Vidoo</predplace>
+      <ts>2017-08-19T20:24:10Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-09T15:50:29Z</ts>
+        <createdBy>Cyril Waliszewski</createdBy>
+        <approvedBy>Regina Merrien</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Twinte</place>
+      <predplace>transferredTo Twinte</predplace>
+      <ts>2018-09-25T21:31:58Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-02-06T06:31:11Z</ts>
+        <createdBy>Ciro Hillhouse</createdBy>
+        <approvedBy>Viva Crum</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Yotz</place>
+      <predplace>movedTo Yotz</predplace>
+      <ts>2015-06-24T22:22:10Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-04-23T02:34:00Z</ts>
+        <createdBy>Bathsheba Jakubowski</createdBy>
+        <approvedBy>Almeria Wentworth</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2017-06-07T03:44:51Z</end>
+      <start>2015-08-18T15:44:54Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://purevolume.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://ezinearticles.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://opensource.org</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10011.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10011</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10011.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Reinald</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10011.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Gierke</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10011.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10039.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10011.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10037.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10011.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10031.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10011.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10062.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

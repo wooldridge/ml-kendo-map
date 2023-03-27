@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10005</personId>
+  <nameGroup>
+    <givenname>
+      <value>Monica</value>
+    </givenname>
+    <surname>
+      <value>Bannister</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Monica Bannister </value>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2012-12-06T20:49:51Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-11-03T12:29:43Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-11-24T02:25:29Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>fmathwen0@samsung.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>703-901-7167</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>550-975-8420</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>mtummasutti1@umn.edu</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>handrusov2@google.fr</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>647-35-8945</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2018-05-20T12:47:35Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-06-24T10:01:47Z</ts>
+        <uploadedBy>fchesterman0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2015-06-19T16:56:49Z</ts>
+        <uploadedBy>nmathieson0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>5229 Mayer Center</street>
+      <city>Hartford</city>
+      <state>CT</state>
+      <postal>06105</postal>
+      <country>United States</country>
+      <latitude>41.7691</latitude>
+      <longitude>-72.701</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>York University</name>
+      <city>Abbotsford</city>
+      <state>BC</state>
+      <postal>L9T</postal>
+      <latitude>49.05798</latitude>
+      <longitude>-122.25257</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-09-22T18:34:53Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-03-28T12:41:11Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Neumann College</name>
+      <city>New Orleans</city>
+      <state>LA</state>
+      <postal>70116</postal>
+      <latitude>29.9653661</latitude>
+      <longitude>-90.0629989</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-09-14T00:39:53Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-10-07T18:12:18Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2010-01-12T11:32:53Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10096.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Ashly Hubane </fullname>
+      <city>Orlando</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10061.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Adriane Ivashov </fullname>
+      <city>Austin</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-24T00:13:04Z</ts>
+    <user>mbannister4</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-07T05:58:01Z</ts>
+    <user>mbannister4</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>jmchenry0</handle>
+      <address>https://redcross.org/massa/tempor/convallis.png</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>ktomaszewicz1</handle>
+      <address>http://geocities.com/aliquam/convallis/nunc/proin.xml</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-03</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-01-31</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://dot.gov</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://bigcartel.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://marketwatch.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Tagfeed</place>
+      <predplace>movedTo Tagfeed</predplace>
+      <ts>2016-08-04T15:47:46Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-03-06T06:57:51Z</ts>
+        <createdBy>Reamonn Elesander</createdBy>
+        <approvedBy>Collie Bezant</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Kwinu</place>
+      <predplace>movedTo Kwinu</predplace>
+      <ts>2015-10-29T04:36:21Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-04-02T02:17:19Z</ts>
+        <createdBy>Deb Iddins</createdBy>
+        <approvedBy>Randall Mordon</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Tazzy</place>
+      <predplace>endedAt Tazzy</predplace>
+      <ts>2020-02-16T07:13:04Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-09-23T23:04:51Z</ts>
+        <createdBy>Ange Marflitt</createdBy>
+        <approvedBy>Marci Vauter</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Twitterlist</place>
+      <predplace>movedTo Twitterlist</predplace>
+      <ts>2012-01-21T23:29:51Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-02-20T16:50:31Z</ts>
+        <createdBy>Dacy Jeffray</createdBy>
+        <approvedBy>Mari Fitch</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Wordtune</place>
+      <predplace>startedAt Wordtune</predplace>
+      <ts>2013-10-28T18:09:10Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-11-16T14:11:56Z</ts>
+        <createdBy>Bel Loveless</createdBy>
+        <approvedBy>Daile Fryett</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2018-06-09T07:11:59Z</end>
+      <start>2014-06-21T02:39:46Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://sourceforge.net</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://stanford.edu</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://devhub.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10005.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10005</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10005.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Monica</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10005.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Bannister</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10005.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10096.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10005.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10061.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

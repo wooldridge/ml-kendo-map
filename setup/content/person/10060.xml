@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10060</personId>
+  <nameGroup>
+    <givenname>
+      <value>Sabrina</value>
+    </givenname>
+    <surname>
+      <value>Waberer</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Sabrina Waberer </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-08-21T05:43:25Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2016-04-18T06:51:22Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-09-19T04:34:45Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>gheyward0@ox.ac.uk</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>dclevely1@yale.edu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>etollerfield2@blogspot.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>689-331-2536</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>429-184-4722</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>rgolley1@uiuc.edu</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>mwalicki2@google.fr</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>894-75-8909</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2013-06-05T07:07:00Z</ts>
+        <uploadedBy>thunter0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2012-06-23T01:34:59Z</ts>
+        <uploadedBy>dstampfer0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>56 Corben Park</street>
+      <city>Corpus Christi</city>
+      <state>TX</state>
+      <postal>78475</postal>
+      <country>United States</country>
+      <latitude>27.777</latitude>
+      <longitude>-97.4632</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>International Academy of  Merchandising and Design Tampa</name>
+      <city>Atlanta</city>
+      <state>GA</state>
+      <postal>31165</postal>
+      <latitude>29.4390958</latitude>
+      <longitude>-98.487335</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-08-05T20:14:24Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>University of Texas Health Center at Tyler</name>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <postal>19125</postal>
+      <latitude>39.9793657</latitude>
+      <longitude>-75.1253492</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-05-23T22:44:17Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2017-08-16T22:35:09Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2012-03-28T20:36:09Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10040.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Christa Cadogan </fullname>
+      <city>Memphis</city>
+      <state>TN</state>
+    </relation>
+    <relation>
+      <id>/person/10029.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Trude Mityushin </fullname>
+      <city>Bronx</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10092.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Jermayne Anthony </fullname>
+      <city>Greensboro</city>
+      <state>NC</state>
+    </relation>
+    <relation>
+      <id>/person/10074.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Abeu Hobden </fullname>
+      <city>Buffalo</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10024.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Korella Kiddey </fullname>
+      <city>Sioux City</city>
+      <state>IA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-26T21:34:55Z</ts>
+    <user>swaberer1n</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-17T00:50:04Z</ts>
+    <user>swaberer1n</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-29</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-02-09</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-13</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://cornell.edu</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://army.mil</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://irs.gov</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Linktype</place>
+      <predplace>transferredTo Linktype</predplace>
+      <ts>2019-04-07T07:54:30Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-12T17:51:17Z</ts>
+        <createdBy>Nickie Allward</createdBy>
+        <approvedBy>Yehudi Porteous</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Tagfeed</place>
+      <predplace>transferredTo Tagfeed</predplace>
+      <ts>2012-06-10T02:57:34Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-09-14T23:43:53Z</ts>
+        <createdBy>Marietta Mundford</createdBy>
+        <approvedBy>Maryanna Meriet</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Aibox</place>
+      <predplace>transferredTo Aibox</predplace>
+      <ts>2017-11-02T17:43:41Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-11-01T11:43:16Z</ts>
+        <createdBy>Randi Degoy</createdBy>
+        <approvedBy>Averell Zupo</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>BlogXS</place>
+      <predplace>startedAt BlogXS</predplace>
+      <ts>2017-07-19T09:39:53Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-11-09T05:05:23Z</ts>
+        <createdBy>Georgetta Goddert.sf</createdBy>
+        <approvedBy>Donnamarie Farrier</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Zoozzy</place>
+      <predplace>startedAt Zoozzy</predplace>
+      <ts>2015-11-11T04:05:33Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-11-26T00:25:12Z</ts>
+        <createdBy>Chester Borland</createdBy>
+        <approvedBy>Claudina Taillard</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2018-08-26T16:32:09Z</end>
+      <start>2015-09-07T18:46:03Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://joomla.org</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://youtu.be</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://bloomberg.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10060.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10060</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10060.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Sabrina</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10060.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Waberer</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10060.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10040.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10060.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10029.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10060.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10092.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10060.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10074.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10060.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10024.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

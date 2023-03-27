@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10029</personId>
+  <nameGroup>
+    <givenname>
+      <value>Trude</value>
+    </givenname>
+    <surname>
+      <value>Mityushin</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Trude Mityushin </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-11-29T21:05:17Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-01-05T19:01:10Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2020-12-31T21:53:11Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>swheadon0@home.pl</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>broycraft1@webmd.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>684-931-1592</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>231-782-5684</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>867-635-4385</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>433-908-8084</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>329-40-6074</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-03-01T02:08:24Z</ts>
+        <uploadedBy>krait0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-10-11T19:43:24Z</ts>
+        <uploadedBy>dlaurencot0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>88 Spenser Lane</street>
+      <city>Bronx</city>
+      <state>NY</state>
+      <postal>10454</postal>
+      <country>United States</country>
+      <latitude>40.8085</latitude>
+      <longitude>-73.9198</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma Metropolitana - Xochimilco</name>
+      <city>Isidro Fabela</city>
+      <state>MEX</state>
+      <postal>54932</postal>
+      <latitude>19.6612408</latitude>
+      <longitude>-99.0795719</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-07-04T22:00:24Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-06-15T20:56:42Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>City University of New York, John Jay College of Criminal Justice</name>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20210</postal>
+      <latitude>38.8920292</latitude>
+      <longitude>-77.0136483</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-06-03T17:25:31Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-06-24T04:32:44Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-05-04T22:49:16Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2010-11-26T14:56:20Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10067.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Tommy Deek </fullname>
+      <city>Kansas City</city>
+      <state>MO</state>
+    </relation>
+    <relation>
+      <id>/person/10049.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Maryjo Flooks </fullname>
+      <city>Saint Cloud</city>
+      <state>MN</state>
+    </relation>
+    <relation>
+      <id>/person/10038.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Vilhelmina Napthine </fullname>
+      <city>Austin</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-11T10:39:12Z</ts>
+    <user>tmityushins</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-14T03:15:37Z</ts>
+    <user>tmityushins</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>acullimore0</handle>
+      <address>https://vkontakte.ru/justo/etiam/pretium.aspx</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>tdovington1</handle>
+      <address>https://youku.com/vestibulum.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-22</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-01-12</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-08</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-04</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-02-21</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>false</important>
+      <ts>2022-01-26</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://woothemes.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://patch.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://infoseek.co.jp</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Skinte</place>
+      <predplace>transferredTo Skinte</predplace>
+      <ts>2012-06-18T09:10:41Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-12-30T08:34:55Z</ts>
+        <createdBy>Sissie Flaubert</createdBy>
+        <approvedBy>Vasili Barmby</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Wordpedia</place>
+      <predplace>transferredTo Wordpedia</predplace>
+      <ts>2018-12-13T05:22:32Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-05-11T07:12:12Z</ts>
+        <createdBy>Minne Gleadle</createdBy>
+        <approvedBy>Reuben Durbann</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Youbridge</place>
+      <predplace>endedAt Youbridge</predplace>
+      <ts>2014-02-12T22:12:20Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-07-02T12:55:05Z</ts>
+        <createdBy>Kristos Mehew</createdBy>
+        <approvedBy>Glenna Lydiard</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Plambee</place>
+      <predplace>endedAt Plambee</predplace>
+      <ts>2013-02-21T23:35:31Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-03-04T21:57:18Z</ts>
+        <createdBy>Esma Marie</createdBy>
+        <approvedBy>Alvinia Blance</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Topiczoom</place>
+      <predplace>endedAt Topiczoom</predplace>
+      <ts>2015-03-22T01:43:43Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-09-17T00:34:48Z</ts>
+        <createdBy>Emelyne Muttitt</createdBy>
+        <approvedBy>Alane Mardling</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-01-27T05:42:08Z</end>
+      <start>2015-04-23T05:01:26Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://shinystat.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://narod.ru</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://dailymail.co.uk</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10029</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Trude</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Mityushin</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10067.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10049.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10038.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

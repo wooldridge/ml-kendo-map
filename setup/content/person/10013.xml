@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10013</personId>
+  <nameGroup>
+    <givenname>
+      <value>Elaine</value>
+    </givenname>
+    <surname>
+      <value>Walklott</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Elaine Walklott </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-10-11T20:14:07Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2019-10-02T16:41:21Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>ltuiller0@pcworld.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>bhagger1@scientificamerican.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>658-476-7876</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>471-526-3445</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>jkibel1@mapy.cz</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>kvedekhov2@hugedomains.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>126-36-6525</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-01-05T16:10:26Z</ts>
+        <uploadedBy>hrathjen0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2011-12-21T06:28:39Z</ts>
+        <uploadedBy>rwestraw0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>92596 Sycamore Avenue</street>
+      <city>Winston Salem</city>
+      <state>NC</state>
+      <postal>27105</postal>
+      <country>United States</country>
+      <latitude>36.144</latitude>
+      <longitude>-80.2376</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Catawba College</name>
+      <city>Pensacola</city>
+      <state>FL</state>
+      <postal>32575</postal>
+      <latitude>30.475663</latitude>
+      <longitude>-87.193563</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-02-11T21:26:35Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-06-13T12:42:21Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-11-30T16:42:08Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2014-03-01T18:47:19Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2014-05-29T17:53:11Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10026.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Jania Kemwal </fullname>
+      <city>Reston</city>
+      <state>VA</state>
+    </relation>
+    <relation>
+      <id>/person/10088.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Vincents Clementel </fullname>
+      <city>Lehigh Acres</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10053.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Roxie Yule </fullname>
+      <city>Detroit</city>
+      <state>MI</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-18T10:23:59Z</ts>
+    <user>ewalklottc</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-11T02:03:41Z</ts>
+    <user>ewalklottc</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>belnough0</handle>
+      <address>https://topsy.com/justo/in/blandit/ultrices.aspx</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>anicol1</handle>
+      <address>https://shutterfly.com/ultrices.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-01-18</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://ycombinator.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://tinyurl.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://toplist.cz</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Eire</place>
+      <predplace>endedAt Eire</predplace>
+      <ts>2016-03-29T21:08:33Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-09-29T09:35:35Z</ts>
+        <createdBy>Randall Willmont</createdBy>
+        <approvedBy>Lira Shilston</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Lazz</place>
+      <predplace>transferredTo Lazz</predplace>
+      <ts>2016-10-30T07:52:03Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-05-16T17:45:50Z</ts>
+        <createdBy>Clive O'Cleary</createdBy>
+        <approvedBy>Lyon Scotchbrook</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Yodo</place>
+      <predplace>startedAt Yodo</predplace>
+      <ts>2018-12-19T23:43:24Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-18T13:57:51Z</ts>
+        <createdBy>Becka Markwelley</createdBy>
+        <approvedBy>Marney Ethelston</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Edgewire</place>
+      <predplace>movedTo Edgewire</predplace>
+      <ts>2019-03-05T02:42:28Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-06-02T08:54:54Z</ts>
+        <createdBy>Jemmy Cliburn</createdBy>
+        <approvedBy>Mady Dannett</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2018-11-11T00:44:11Z</end>
+      <start>2016-02-23T16:53:26Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://about.me</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://sohu.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://businesswire.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10013.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10013</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10013.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Elaine</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10013.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Walklott</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10013.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10026.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10013.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10088.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10013.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10053.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

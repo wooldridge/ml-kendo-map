@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10054</personId>
+  <nameGroup>
+    <givenname>
+      <value>Lani</value>
+    </givenname>
+    <surname>
+      <value>Kliment</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Lani Kliment </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2020-03-20T14:06:59Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-07-21T11:43:06Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>jdanniell0@mtv.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>kspear1@ehow.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>520-737-8785</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>811-125-9816</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>jclemes1@sogou.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>206-272-0594</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>599-11-1002</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-07-07T11:23:06Z</ts>
+        <uploadedBy>gspight0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-08-21T09:18:57Z</ts>
+        <uploadedBy>cwalden0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>30 Cottonwood Drive</street>
+      <city>Amarillo</city>
+      <state>TX</state>
+      <postal>79118</postal>
+      <country>United States</country>
+      <latitude>35.0763</latitude>
+      <longitude>-101.8349</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>St. Petersburg College</name>
+      <city>Lawrenceville</city>
+      <state>GA</state>
+      <postal>30245</postal>
+      <latitude>40.4770427</latitude>
+      <longitude>-79.9571907</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-05-16T19:33:36Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-09-24T22:48:09Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad del Mayab</name>
+      <city>20 de Noviembre</city>
+      <state>COA</state>
+      <postal>30478</postal>
+      <latitude>19.4449916</latitude>
+      <longitude>-99.1082647</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-04-27T10:56:07Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-03-05T03:47:24Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2016-03-05T18:53:38Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2019-05-27T10:00:05Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2020-09-30T05:27:18Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10072.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Conrad Tunnah </fullname>
+      <city>Sacramento</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10063.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Kathryn Nutkin </fullname>
+      <city>Gainesville</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10010.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Lonny Lawlance </fullname>
+      <city>Phoenix</city>
+      <state>AZ</state>
+    </relation>
+    <relation>
+      <id>/person/10099.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Nikolos Donnel </fullname>
+      <city>Richmond</city>
+      <state>VA</state>
+    </relation>
+    <relation>
+      <id>/person/10025.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Kevyn Egan </fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-04T08:42:11Z</ts>
+    <user>lkliment1h</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-01T03:16:26Z</ts>
+    <user>lkliment1h</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>celan0</handle>
+      <address>https://jigsy.com/tellus/nulla/ut/erat/id.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-01-16</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-02-27</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://ucoz.ru</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://state.tx.us</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://stumbleupon.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Mynte</place>
+      <predplace>endedAt Mynte</predplace>
+      <ts>2019-09-06T09:56:12Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-07-04T03:38:50Z</ts>
+        <createdBy>Gasparo Giacopelo</createdBy>
+        <approvedBy>Brianna Arden</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Twitternation</place>
+      <predplace>endedAt Twitternation</predplace>
+      <ts>2012-09-09T08:09:48Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-12-14T19:07:48Z</ts>
+        <createdBy>Dorian Codi</createdBy>
+        <approvedBy>Leeland Kneesha</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Youfeed</place>
+      <predplace>startedAt Youfeed</predplace>
+      <ts>2013-09-23T00:16:28Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-01-02T01:54:55Z</ts>
+        <createdBy>Ebony Petters</createdBy>
+        <approvedBy>Eolande Tribell</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Jetpulse</place>
+      <predplace>transferredTo Jetpulse</predplace>
+      <ts>2016-10-20T13:53:15Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-01-22T22:37:35Z</ts>
+        <createdBy>Judah Custard</createdBy>
+        <approvedBy>Lisa Sumpner</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-03-25T15:16:47Z</end>
+      <start>2016-01-05T22:08:38Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://over-blog.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://gizmodo.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://ebay.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10054.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10054</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10054.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Lani</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10054.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Kliment</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10054.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10072.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10054.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10063.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10054.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10010.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10054.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10099.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10054.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10025.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

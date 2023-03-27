@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10087</personId>
+  <nameGroup>
+    <givenname>
+      <value>Bendick</value>
+    </givenname>
+    <surname>
+      <value>Walklate</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Bendick Walklate </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-08-16T07:20:58Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-10-12T13:00:53Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-08-24T14:46:41Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>lpartener0@vk.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>zsmedmoor1@cam.ac.uk</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>lrosevear2@nymag.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>597-570-4131</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>958-552-1232</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>sbourton1@nasa.gov</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>519-835-9878</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>134-06-5700</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2013-07-22T14:01:54Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2014-11-28T12:38:15Z</ts>
+        <uploadedBy>obassam0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-11-07T13:00:50Z</ts>
+        <uploadedBy>ghumpage0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>75715 Mifflin Terrace</street>
+      <city>San Diego</city>
+      <state>CA</state>
+      <postal>92137</postal>
+      <country>United States</country>
+      <latitude>32.8538</latitude>
+      <longitude>-117.1197</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad del Valle de Atemajac</name>
+      <city>Alvaro Obregon</city>
+      <state>COA</state>
+      <postal>29913</postal>
+      <latitude>19.4127929</latitude>
+      <longitude>-99.1186381</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-09-22T14:51:45Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Columbia College Hollywood</name>
+      <city>Louisville</city>
+      <state>KY</state>
+      <postal>40293</postal>
+      <latitude>38.26</latitude>
+      <longitude>-85.75</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-01-23T04:04:38Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-06-18T05:08:06Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-05-17T13:09:56Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2011-02-23T13:09:51Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10025.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Kevyn Egan </fullname>
+      <city>Washington</city>
+      <state>DC</state>
+    </relation>
+    <relation>
+      <id>/person/10032.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Vivian Tallent </fullname>
+      <city>Muncie</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10047.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Carleton Angus </fullname>
+      <city>Akron</city>
+      <state>OH</state>
+    </relation>
+    <relation>
+      <id>/person/10019.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Bastien Fleay </fullname>
+      <city>Cape Coral</city>
+      <state>FL</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-03T16:28:36Z</ts>
+    <user>bwalklate2e</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-10T15:49:10Z</ts>
+    <user>bwalklate2e</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>vmonkton0</handle>
+      <address>https://parallels.com/semper/sapien/a/libero.jpg</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>cchopy1</handle>
+      <address>https://hud.gov/elit/sodales.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-02-08</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-20</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-02-04</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-02-04</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-28</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://tamu.edu</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://nba.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://amazon.de</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Pixoboo</place>
+      <predplace>transferredTo Pixoboo</predplace>
+      <ts>2020-02-15T14:17:25Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-10-25T01:10:11Z</ts>
+        <createdBy>Neddie Roulston</createdBy>
+        <approvedBy>Brendan Courage</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Agivu</place>
+      <predplace>endedAt Agivu</predplace>
+      <ts>2014-11-17T11:48:41Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-12T04:45:39Z</ts>
+        <createdBy>Vergil Buddell</createdBy>
+        <approvedBy>Burgess O'Donnell</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2017-08-12T18:19:52Z</end>
+      <start>2014-02-20T02:05:02Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://oracle.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://zimbio.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://eventbrite.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10087.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10087</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10087.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Bendick</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10087.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Walklate</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10087.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10025.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10087.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10032.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10087.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10047.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10087.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10019.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

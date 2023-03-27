@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10051</personId>
+  <nameGroup>
+    <givenname>
+      <value>Glad</value>
+    </givenname>
+    <surname>
+      <value>Hourican</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Glad Hourican </value>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-06-08T07:54:47Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2017-03-04T20:10:10Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2012-07-01T07:22:48Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>pardern0@cbslocal.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>pboribal1@google.ca</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>233-850-7723</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>bshippard0@npr.org</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>lhurrell1@yolasite.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>702-466-3864</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>278-09-5358</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2013-05-30T09:55:25Z</ts>
+        <uploadedBy>bloudian0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2011-04-24T02:32:30Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-05.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-07-22T09:22:01Z</ts>
+        <uploadedBy>godowgaine0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-02-24T11:40:27Z</ts>
+        <uploadedBy>crottger0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>2 Jana Park</street>
+      <city>Redwood City</city>
+      <state>CA</state>
+      <postal>94064</postal>
+      <country>United States</country>
+      <latitude>37.3811</latitude>
+      <longitude>-122.3348</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Whittier College</name>
+      <city>Midland</city>
+      <state>TX</state>
+      <postal>79710</postal>
+      <latitude>32.0631839</latitude>
+      <longitude>-102.0375564</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-03-05T02:40:09Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-07-25T07:39:29Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2013-05-29T04:28:05Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2017-01-19T22:35:39Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2014-01-11T11:54:21Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10048.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Tish Fernan </fullname>
+      <city>Knoxville</city>
+      <state>TN</state>
+    </relation>
+    <relation>
+      <id>/person/10077.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Jada Essame </fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-07T16:10:04Z</ts>
+    <user>ghourican1e</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-15T13:36:15Z</ts>
+    <user>ghourican1e</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle/>
+      <address>https://fastcompany.com/tempus.html</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>fkollach1</handle>
+      <address>http://usgs.gov/dictumst/morbi/vestibulum/velit/id.jpg</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>galbasini2</handle>
+      <address>http://newsvine.com/lorem/quisque/ut/erat/curabitur.xml</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-02-13</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://accuweather.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://oaic.gov.au</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://ibm.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Vipe</place>
+      <predplace>transferredTo Vipe</predplace>
+      <ts>2012-10-13T08:47:57Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-04-11T18:40:19Z</ts>
+        <createdBy>Earl Stollard</createdBy>
+        <approvedBy>Yvonne Hawick</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Tazz</place>
+      <predplace>endedAt Tazz</predplace>
+      <ts>2015-08-18T10:56:59Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-10-18T05:02:44Z</ts>
+        <createdBy>Elbertine Calderbank</createdBy>
+        <approvedBy>Alena Tzarkov</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Innotype</place>
+      <predplace>movedTo Innotype</predplace>
+      <ts>2020-02-16T05:18:20Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-01-09T20:40:42Z</ts>
+        <createdBy>Kendell Meaking</createdBy>
+        <approvedBy>Tiff MacElholm</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Pixoboo</place>
+      <predplace>movedTo Pixoboo</predplace>
+      <ts>2014-07-30T10:47:01Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-04-21T02:56:03Z</ts>
+        <createdBy>Jeffrey Martinyuk</createdBy>
+        <approvedBy>Nedda Blinckhorne</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>leasedFrom</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>leasedFrom Swift Inc</predplace>
+      <end>2018-01-11T05:32:47Z</end>
+      <start>2016-03-11T05:36:59Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://independent.co.uk</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://vinaora.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://oracle.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10051.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10051</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10051.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Glad</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10051.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Hourican</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10051.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10048.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10051.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10077.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
+</person>

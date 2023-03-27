@@ -15,16 +15,21 @@ A React application that demonstrates the KendoReact Map component working with 
 
 ## Setup
 
-1. If needed, edit `config.js` for your MarkLogic environment.
-
-2. In a new terminal, install the project dependencies from the project root using npm:
+1. Clone the project and change to the root directory:
 ```
+git clone https://github.com/wooldridge/ml-kendo-map
 cd ml-kendo-map
+```
+
+2. If needed, edit `config.js` for your MarkLogic environment.
+
+3. In a new terminal, install the project dependencies from the project root using npm:
+```
 npm install
 ```
 This will install dependencies for the setup script, proxy server, and React UI. You can also install dependencies separately by running `npm install` from each subdirectory.
 
-3. From the project root, run the setup script:
+4. From the project root, run the setup script:
 ```
 node setup
 ```
@@ -34,7 +39,7 @@ After setup, you can view your MarkLogic Server configuration in the Admin UI (h
 
 ## Run the middle tier 
 
-1. From the project root, run the Node.js Express proxy server, which is the middle tier between the React application and the MarkLogic Server:
+1. From the project root, run the Node.js Express proxy server, which is the middle tier between the React application and MarkLogic Server:
 ```
 node server
 ```

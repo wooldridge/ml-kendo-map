@@ -3,8 +3,10 @@
 A React application that demonstrates the KendoReact Map component working with MarkLogic geospatial data:
 
 - On load, uses MarkLogic faceted search results to display a heat map using a KendoReact Map shapes layer of U.S. states.
-- On a U.S. state click, uses MarkLogic geospatial point search to retrieve marker results based on the state's GeoJSON polygon coordinates.
-- On a marker click, retrieves a MarkLogic document and displays it in a KendoReact Window (that features a simple Data Grid).
+- On a U.S. state click, uses a MarkLogic geospatial point search to retrieve marker results based on the state's GeoJSON polygon coordinates.
+- On a marker click, retrieves a MarkLogic document and displays it in a KendoReact Window (that includes a simple Data Grid).
+
+<img src="ui/public/images/ml-kendo-map.png" width="750" title="hover text">
 
 ## Requirements
 

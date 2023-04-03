@@ -12,6 +12,7 @@ A React application that demonstrates the KendoReact Map component working with 
 
 - MarkLogic Server 10+
 - Node.js 16+ and npm 8+
+- KendoReact license: https://www.telerik.com/kendo-react-ui/components/my-license/
 
 ## Setup
 

@@ -18,10 +18,14 @@ const MyMap = () => {
 
   const mlContext = useContext(MLContext);
 
-  const [selected, setSelected] = useState(null);
+  const [selected, setSelected] = useState({
+    current: null, 
+    previous: null // Allows deselection
+  });
   const [center, setCenter] = useState(centerInit);
   const [visible, setVisible] = useState(false);
   const [person, setPerson] = useState(null);
+  const shapesByName = {};
 
   const shapeStyle = {
     stroke: {
@@ -30,8 +34,15 @@ const MyMap = () => {
       opacity: 0.2
     },
     fill: {
-      color: "blue",
       opacity: 0
+    }
+  };
+
+  const selectedStyle = {
+    stroke: {
+      color: "#C00",
+      width: 4,
+      opacity: 0.5
     }
   };
 
@@ -40,19 +51,26 @@ const MyMap = () => {
     mlContext.handleFacets();
   }, []);
 
-  // Color state based on facet count
   const onShapeCreated = (e) => {
+    // Color state based on facet count
     const shape = e.shape;
     const abbrev = e.dataItem.id;
     if (mlContext.facets && abbrev) {
       let val = mlContext.facets.state.facetValues.find(fv => {
         return abbrev === fv.name;
       })
-      if (val && val.count) {
-        const opacity = (val.count / 40) + 0.05;
+      if (val) {
+        const opacity = val.count / 40;
         shape.options.set("fill.opacity", opacity);
+        shape.options.set("fill.color", "blue");
       }
     }
+    // Create object of shapes for reference
+    let name = e.dataItem.properties.name;
+    shapesByName[name] = shapesByName[name] || [];
+    shapesByName[name].push(shape);
+    // Handle selection if it exists (e.g. on pan redraw)
+    if (selected.current) handleSelection(selected.current);
   };
 
   // Document change updates the person panel
@@ -65,9 +83,37 @@ const MyMap = () => {
 
   // Shape clicks trigger a geospatial search query
   const handleShapeClick = (event) => {
-    console.log('handleShapeClick', event);
-    setSelected(event.shape.dataItem.properties.name);
+    setSelected((prevSelected) => {
+      return {
+        previous: prevSelected.current,
+        current: event.shape.dataItem.properties.name
+      };
+    })
     mlContext.handleGeo(event.shape.dataItem.geometry.coordinates);
+  }
+
+  // After marker location update, update selection borders
+  // NOTE Updating in handleShapeClick clobbers selection styles
+  useEffect(() => {
+    let prevShapes = shapesByName[selected.previous];
+    if (prevShapes) {
+      // Deselect previous
+      prevShapes.map(shape => {
+        shape.options.set('stroke', shapeStyle.stroke);
+      })
+    }
+    // Select current
+    handleSelection(selected.current);
+  }, [mlContext.locations]);
+
+  // Add selection style
+  const handleSelection = (name) => {
+    let selectedShapes = shapesByName[name];
+    if (selectedShapes) {
+      selectedShapes.map(shape => {
+        shape.options.set('stroke', selectedStyle.stroke);
+      })
+    }
   }
 
   // Marker clicks trigger a document load
@@ -95,7 +141,7 @@ const MyMap = () => {
 
   return (
     <div>
-      <MySelected selected={selected} total={mlContext.total} />
+      <MySelected selected={selected.current} total={mlContext.total} />
       <Map center={center} zoom={5}  
         onShapeClick={handleShapeClick} 
         onMarkerClick={handleMarkerClick} 

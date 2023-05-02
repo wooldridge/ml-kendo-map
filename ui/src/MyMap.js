@@ -1,11 +1,12 @@
-import React, { useState, useContext, useEffect } from 'react';
-import { Map, MapLayers, MapTileLayer, MapMarkerLayer, 
-  MapShapeLayer, MapMarkerLayerTooltip} from "@progress/kendo-react-map";
+import React, { useState, useContext, useEffect, useMemo } from 'react';
+import { Map, MapLayers, MapTileLayer, MapMarkerLayer,
+  MapShapeLayer } from "@progress/kendo-react-map";
 import MLContext from './ML';
 import MySelected from "./MySelected";
 import MyWindow from "./MyWindow";
 import shapes from "./us-states.json";
 import './MyMap.css';
+import debounce from 'lodash.debounce';
 
 const centerInit = [37.686020, -90.335571];
 const tileSubdomains = ["a", "b", "c"];
@@ -13,19 +14,18 @@ const tileUrl = (e) =>
   `https://${e.subdomain}.tile.openstreetmap.org/${e.zoom}/${e.x}/${e.y}.png`;
 const attribution =
   '&copy; <a href="https://osm.org/copyright">OpenStreetMap contributors</a>';
-
+const shapesByName = {};
 const MyMap = () => {
 
   const mlContext = useContext(MLContext);
 
   const [selected, setSelected] = useState({
-    current: null, 
+    current: null,
     previous: null // Allows deselection
   });
   const [center, setCenter] = useState(centerInit);
   const [visible, setVisible] = useState(false);
   const [person, setPerson] = useState(null);
-  const shapesByName = {};
 
   const shapeStyle = {
     stroke: {
@@ -104,6 +104,8 @@ const MyMap = () => {
     }
     // Select current
     handleSelection(selected.current);
+    const map = mapRef.current;
+    map.loadMarkers(mlContext.locations)
   }, [mlContext.locations]);
 
   // Add selection style
@@ -138,19 +140,36 @@ const MyMap = () => {
   const handleZoom = (e) => {
     console.log('handleZoom', e);
   };
+  const mapRef = React.useRef(null);
+  const changeZoom = () => {
+    const map = mapRef.current.mapInstance;
+    map.zoom(4)
+  };
 
+
+  const debauncedHandleRefresh = useMemo(
+    () => debounce((options, map) => {
+       if(!selected.current) {
+        map.setOptions(options)
+       }
+    }, 30)
+  , [selected]);
   return (
     <div>
+       <button onClick={changeZoom}>zoom</button>
+      <br/>
       <MySelected selected={selected.current} total={mlContext.total} />
-      <Map center={center} zoom={5}  
-        onShapeClick={handleShapeClick} 
-        onMarkerClick={handleMarkerClick} 
+      <Map
+        ref={mapRef}
+        center={center} zoom={5}
+        onShapeClick={handleShapeClick}
+        onMarkerClick={handleMarkerClick}
         onShapeCreated={onShapeCreated}
         onPanEnd={handlePan}
         onZoomEnd={handleZoom}
         zoomable={false} // TODO disable zoom until we can manage on redraw
-        style={{position: "relative", height: "100vh"}}
         navigator={false}
+        onRefresh={debauncedHandleRefresh}
       >
         <MapLayers>
           <MapTileLayer
